@@ -13,8 +13,8 @@
 
 ---
 
-## 👾 Hey, I'm pr1m8
-🦍 **AI Architect | Autonomous Systems Engineer**  
+## 👾 Hey, I'm Will
+🦍 **Agent Architect | Quantitative Analyst**  
 🛠 **Building modular AI agents, automation, and intelligence systems.**  
 
 💡 **Specialized in:** AI Agents, Graph AI, Quantitative Models, RAG Pipelines  
