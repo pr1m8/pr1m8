@@ -6,21 +6,32 @@
 ---
 
 ## 👾 **Hey, I'm pr1m8**  
-🚀 **Agent Architect | Quantitative Analyst | AI Engineer**  
-🛠 **Building modular AI agents, automation, and intelligence systems.**  
+🚀 **Agent Architect | Quantitative Modeler | AI Systems Engineer**  
+🛠 **Designing intelligent systems that bridge AI, automation, and structured reasoning.**  
 
 ---
 
-### 🔥 **Specialized In**  
-✅ **AI Agents** – Scalable, modular, adaptive architectures  
-✅ **Graph AI & Knowledge Representation** – Structuring intelligence from data  
-✅ **Quantitative & Computational Models** – Algorithmic finance meets automation  
-✅ **RAG Pipelines** – AI-assisted knowledge workflows  
-✅ **Developer Tooling & Automation** – CLI tools, backend infra, and automation  
+### **🔹 Architecting Intelligence**
+**AI agents are more than just prompts and responses**—they require structured reasoning, modular execution, and real-time adaptability. My focus is on designing **scalable, interpretable, and modular AI architectures** that can dynamically retrieve, process, and act on information.
+
+🔹 **Multi-Agent Architectures** – Building intelligent, cooperative agents with dynamic workflows  
+🔹 **Graph-Based AI** – Leveraging structured data to improve reasoning and context understanding  
+🔹 **RAG Pipelines & Knowledge Retrieval** – Optimizing AI workflows for efficiency and accuracy  
+🔹 **Autonomous Decision Systems** – Integrating real-time adaptation and policy-based execution  
 
 ---
 
-### 🔥 **Featured Projects**  
+### **🔹 Quantitative & Computational Modeling**
+AI isn't just about language—it’s about **pattern recognition, probabilistic modeling, and structured intelligence**. My work integrates **quantitative finance, computational models, and AI-driven decision systems** to optimize real-world applications.
+
+📊 **Stochastic & Algorithmic Models** – Applying ML to financial markets, simulations, and predictive modeling  
+📈 **Time Series Forecasting** – Building statistical & deep learning models for market predictions  
+⚡ **Risk & Portfolio Optimization** – Designing AI-driven investment strategies  
+🔢 **Probabilistic Graph Models** – Structuring uncertainty for AI decision-making  
+
+---
+
+### **🔹 Projects & Research**
 | 🔧 **Project** | 📝 **Description** |  
 |-----------|---------------|  
 | [⚡ **Haive**](https://github.com/0rac130fD31phi/haive) | Modular AI agent framework for scalable intelligence |  
@@ -29,15 +40,5 @@
 
 ---
 
-### 🌍 **Find Me Elsewhere**  
+### **🔹 Find Me Elsewhere**
 📡 [Twitter/X](#) • 👔 [LinkedIn](#) • 🌍 [Website](#)  
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="120">
-  <img src="https://media.giphy.com/media/QxMlMLLzOdSLe/giphy.gif" width="120">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="120">
-</p>
-
-> **🦍 "Automating intelligence, from first principles to execution."**  
