@@ -1,16 +1,26 @@
-## Hi there 👋
+### 👾 Hey, I'm pr1m8
 
-<!--
-**pr1m8/pr1m8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🦍 **Agent Architect | AI System Engineer**  
+📊 **AI Agents | RAG Pipelines | Graph Systems | Quant & Computational Models**  
+⚡ **Building intelligence from noise, one system at a time.**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **What I Build**  
+- 🤖 **Modular AI agent architectures** (structured, scalable, and dynamic)  
+- 🔍 **Retrieval-Augmented Generation (RAG) pipelines** with structured retrieval  
+- 🏗 **Graph-based AI & Knowledge Representation**  
+- 📈 **Quantitative & algorithmic models for automation**  
+- 🛠 **CLI tools, backend systems, and dev automation**  
+
+🚀 **Current Projects**  
+- 🏗 **[Haive](https://github.com/0rac130fD31phi/haive)** – AI agent framework for modular intelligence  
+- ⚙️ **FLSTAESR** – Automating structured RAG workflows  
+- 🔬 **Experimental: Quant-driven AI models & sandboxed execution**  
+
+---
+
+🌐 **Elsewhere & Contact**  
+[Twitter/X](#) • [LinkedIn](#) • [Website](#)  
+
+🦍 _Automating intelligence, one system at a time._
