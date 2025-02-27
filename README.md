@@ -5,7 +5,10 @@
 
 <div align="center">
   <pre>
-  
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/ascii-art.svg" width="600">
+</p>
+
 
   </pre>
 </div>
