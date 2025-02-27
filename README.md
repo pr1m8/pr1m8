@@ -5,7 +5,7 @@
 
 ---
 
-## 👾 **Hey, I'm pr1m8**  
+## 👾 **Hey, I'm Will**  
 🚀 **Agent Architect | Quantitative Modeler | AI Systems Engineer**  
 🛠 **Designing intelligent systems that bridge AI, automation, and structured reasoning.**  
 
