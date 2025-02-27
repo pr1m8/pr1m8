@@ -5,9 +5,9 @@
 
 <div align="center">
   <pre>
-  <p align="center">
+ 
   <img src="https://raw.githubusercontent.com/pr1m8/pr1m8/main/ascii-art (1).svg">
-</p>
+
 
 
   </pre>
