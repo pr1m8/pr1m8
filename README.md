@@ -1,26 +1,30 @@
 ### 👾 Hey, I'm pr1m8
 
-🦍 **Agent Architect | AI System Engineer**  
+🦍 **Agent Architect | AI Systems Engineer**  
+🧠 **Building autonomous intelligence at the intersection of AI, math, and automation.**  
+
 📊 **AI Agents | RAG Pipelines | Graph Systems | Quant & Computational Models**  
-⚡ **Building intelligence from noise, one system at a time.**  
+⚡ **Turning complexity into structured intelligence, one system at a time.**  
 
 ---
 
-🔭 **What I Build**  
-- 🤖 **Modular AI agent architectures** (structured, scalable, and dynamic)  
-- 🔍 **Retrieval-Augmented Generation (RAG) pipelines** with structured retrieval  
-- 🏗 **Graph-based AI & Knowledge Representation**  
-- 📈 **Quantitative & algorithmic models for automation**  
-- 🛠 **CLI tools, backend systems, and dev automation**  
-
-🚀 **Current Projects**  
-- 🏗 **[Haive](https://github.com/0rac130fD31phi/haive)** – AI agent framework for modular intelligence  
-- ⚙️ **FLSTAESR** – Automating structured RAG workflows  
-- 🔬 **Experimental: Quant-driven AI models & sandboxed execution**  
+## 🔭 **What I Build**
+- 🤖 **Modular AI Agent Architectures** – Scalable, structured, and adaptive systems  
+- 🔍 **RAG Pipelines & Structured Retrieval** – Optimizing AI-assisted knowledge workflows  
+- 🏗 **Graph-Based AI & Knowledge Representation** – Connecting structured data for reasoning  
+- 📈 **Quantitative & Algorithmic Models** – Merging math, AI, and automation  
+- 🛠 **Developer Tooling & Infrastructure** – CLI tools, backend systems, and automation  
 
 ---
 
-🌐 **Elsewhere & Contact**  
-[Twitter/X](#) • [LinkedIn](#) • [Website](#)  
+## 🚀 **Current Projects**
+- 🏗 **[Haive](https://github.com/0rac130fD31phi/haive)** – A modular AI agent framework for scalable intelligence  
+- ⚙️ **FLSTAESR** – Automating structured RAG workflows for better retrieval & reasoning  
+- 🔬 **Experimental: Quant-driven AI models, sandboxed execution, and intelligent automation**  
 
-🦍 _Automating intelligence, one system at a time._
+---
+
+## 🌐 **Find Me Elsewhere**
+📡 [Twitter/X](#) • 👔 [LinkedIn](#) • 🌍 [Website](#)  
+
+🦍 *Automating intelligence, from first principles to execution.*
