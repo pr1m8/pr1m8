@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 */12 * * *"}]  # twice a day
+  schedule: [{cron: "0 */12 * * *"}]   # twice a day
   workflow_dispatch:
 permissions:
   contents: write
@@ -16,15 +16,10 @@ jobs:
           template: classic
           base: header, activity, repositories
           config_timezone: America/Toronto
-          # Popular plugins
+          filename: metrics.svg                 # <— ensure file name
+          committer_branch: main                # or 'master' if that's your default
+          committer_message: "chore: update metrics.svg"
+          # Nice plugins (optional)
           plugin_isocalendar: yes
-          plugin_habits: yes
-          plugin_habits_from: 180
           plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_indepth: no
           plugin_achievements: yes
-          # WakaTime (optional)
-          #plugin_wakatime: yes
-          #plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          #plugin_wakatime_sections: time, languages, editors, os
