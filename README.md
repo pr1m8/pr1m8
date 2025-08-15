@@ -13,6 +13,7 @@
 ## 📊 Live profile metrics
 <!-- Auto-updated by .github/workflows/metrics.yml -->
 <img src="./metrics.svg" alt="Metrics for pr1m8" />
+
 --- 
 
 
@@ -44,15 +45,8 @@ AI isn't just about language—it’s about **pattern recognition, probabilistic
 | 📊 **Quant AI** | Algorithmic models for data-driven decision-making |  
 
 --- 
-![GitHub Streak](https://streak-stats.demolab.com?user=pr1m8
-&hide_border=true
-&background=0D1117
-&ring=58A6FF
-&fire=FF7B72
-&currStreakLabel=58A6FF
-&sideNums=C9D1D9
-&sideLabels=8B949E
-&dates=8B949E)
+![GitHub Streak](https://streak-stats.demolab.com?user=pr1m8&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E)
+
 
 ---
 ### **🔹 Find Me Elsewhere**
