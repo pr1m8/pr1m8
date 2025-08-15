@@ -43,7 +43,9 @@ AI isn't just about language—it’s about **pattern recognition, probabilistic
 | 🔬 **FLSTAESR** | Automated RAG pipeline for structured retrieval & reasoning |  
 | 📊 **Quant AI** | Algorithmic models for data-driven decision-making |  
 
----
+--- 
+![GitHub Streak](https://streak-stats.demolab.com?user=pr1m8&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
+---
 ### **🔹 Find Me Elsewhere**
 📡 [Twitter/X](#) • 👔 [LinkedIn](#) • 🌍 [Website](#)  
