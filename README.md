@@ -45,7 +45,8 @@ AI isn't just about language—it’s about **pattern recognition, probabilistic
 | 📊 **Quant AI** | Algorithmic models for data-driven decision-making |  
 
 --- 
-![GitHub Streak](https://streak-stats.demolab.com?user=pr1m8&hide_border=true&background=0D1117&ring=A020F0&fire=DA70D6&currStreakLabel=A020F0&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E)
+![GitHub Streak](https://streak-stats.demolab.com?user=pr1m8&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakNum=E9D5FF&currStreakLabel=C084FC&sideNums=D8B4FE&sideLabels=A78BFA&dates=A78BFA)
+
 
 
 
