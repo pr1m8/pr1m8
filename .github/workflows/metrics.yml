@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 */12 * * *"}]   # twice a day
+  schedule: [{cron: "0 */12 * * *"}]
   workflow_dispatch:
 permissions:
   contents: write
@@ -16,10 +16,9 @@ jobs:
           template: classic
           base: header, activity, repositories
           config_timezone: America/Toronto
-          filename: metrics.svg                 # <— ensure file name
-          committer_branch: main                # or 'master' if that's your default
+          filename: metrics.svg
+          committer_branch: main           # CHANGE if your default is master
           committer_message: "chore: update metrics.svg"
-          # Nice plugins (optional)
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_achievements: yes
