@@ -25,6 +25,6 @@ jobs:
           plugin_languages_indepth: no
           plugin_achievements: yes
           # WakaTime (optional)
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_sections: time, languages, editors, os
+          #plugin_wakatime: yes
+          #plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          #plugin_wakatime_sections: time, languages, editors, os
