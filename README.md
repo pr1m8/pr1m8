@@ -9,7 +9,12 @@
 🚀 **Agent Architect | Quantitative Modeler | AI Systems Engineer**  
 🛠 **Designing intelligent systems that bridge AI, automation, and structured reasoning.**  
 
----
+--- 
+## 📊 Live profile metrics
+<!-- Auto-updated by .github/workflows/metrics.yml -->
+<img src="./metrics.svg" alt="Metrics for pr1m8" />
+--- 
+
 
 ### **🔹 Architecting Intelligence**
 **AI agents are more than just prompts and responses**—they require structured reasoning, modular execution, and real-time adaptability. My focus is on designing **scalable, interpretable, and modular AI architectures** that can dynamically retrieve, process, and act on information.
