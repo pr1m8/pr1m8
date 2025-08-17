@@ -11,6 +11,7 @@
     <!-- Light mode (slightly deeper violet for contrast) -->
     <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Agent+Architect;Autonomous+Systems+Engineer;Graph+AI+%7C+RAG+%7C+Quant&font=Fira+Code&color=%236D28D9&center=true&width=720&height=50" />
   </picture>
+  
 </p>
 
 
@@ -24,24 +25,84 @@
 
 ---
 ## 🧰 Stack (Shields)
-
-
----
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-%20?logo=python&logoColor=A855F7&labelColor=0D1117&color=30363d">
-  <img alt="Pydantic" src="https://img.shields.io/badge/Pydantic-%20?logo=pydantic&logoColor=A855F7&labelColor=0D1117&color=30363d">
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%20?logo=fastapi&logoColor=A855F7&labelColor=0D1117&color=30363d">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%20?logo=typescript&logoColor=A855F7&labelColor=0D1117&color=30363d">
-  <img alt="React" src="https://img.shields.io/badge/React-%20?logo=react&logoColor=A855F7&labelColor=0D1117&color=30363d">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%20?logo=next.js&logoColor=A855F7&labelColor=0D1117&color=30363d">
-  <img alt="Tauri" src="https://img.shields.io/badge/Tauri-%20?logo=tauri&logoColor=A855F7&labelColor=0D1117&color=30363d">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%20?logo=postgresql&logoColor=A855F7&labelColor=0D1117&color=30363d">
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-%20?logo=redis&logoColor=A855F7&labelColor=0D1117&color=30363d">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-%20?logo=docker&logoColor=A855F7&labelColor=0D1117&color=30363d">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-%20?logo=linux&logoColor=A855F7&labelColor=0D1117&color=30363d">
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-%20?logo=supabase&logoColor=A855F7&labelColor=0D1117&color=30363d">
-  <img alt="Sphinx" src="https://img.shields.io/badge/Sphinx-%20?logo=sphinx&logoColor=A855F7&labelColor=0D1117&color=30363d">
+<!-- LangChain -->
+<!-- AI / Agents -->
+<a href="https://www.langchain.com/">
+  <img alt="LangChain"
+       src="https://img.shields.io/badge/%20-LangChain-30363d?style=flat&labelColor=0D1117&logo=langchain&logoColor=A855F7">
+</a>
+<a href="https://langgraph.dev/">
+  <img alt="LangGraph"
+       src="https://img.shields.io/badge/%20-LangGraph-30363d?style=flat&labelColor=0D1117&logo=langchain&logoColor=A855F7">
+</a>
+
+
+
+  <!-- Python backend -->
+  <a href="https://www.python.org/">
+    <img alt="Python"
+         src="https://img.shields.io/badge/Python-%20?style=flat&logo=python&logoColor=A855F7&labelColor=0D1117&color=30363d">
+  </a>
+  <a href="https://docs.pydantic.dev/">
+    <img alt="Pydantic"
+         src="https://img.shields.io/badge/Pydantic-%20?style=flat&logo=pydantic&logoColor=A855F7&labelColor=0D1117&color=30363d">
+  </a>
+  <a href="https://fastapi.tiangolo.com/">
+    <img alt="FastAPI"
+         src="https://img.shields.io/badge/FastAPI-%20?style=flat&logo=fastapi&logoColor=A855F7&labelColor=0D1117&color=30363d">
+  </a>
+
+  <!-- Frontend -->
+  <a href="https://www.typescriptlang.org/">
+    <img alt="TypeScript"
+         src="https://img.shields.io/badge/TypeScript-%20?style=flat&logo=typescript&logoColor=A855F7&labelColor=0D1117&color=30363d">
+  </a>
+  <a href="https://react.dev/">
+    <img alt="React"
+         src="https://img.shields.io/badge/React-%20?style=flat&logo=react&logoColor=A855F7&labelColor=0D1117&color=30363d">
+  </a>
+  <a href="https://nextjs.org/">
+    <img alt="Next.js"
+         src="https://img.shields.io/badge/Next.js-%20?style=flat&logo=nextdotjs&logoColor=A855F7&labelColor=0D1117&color=30363d">
+  </a>
+  <a href="https://tauri.app/">
+    <img alt="Tauri"
+         src="https://img.shields.io/badge/Tauri-%20?style=flat&logo=tauri&logoColor=A855F7&labelColor=0D1117&color=30363d">
+  </a>
+
+  <!-- Data / Infra -->
+  <a href="https://www.postgresql.org/">
+    <img alt="PostgreSQL"
+         src="https://img.shields.io/badge/PostgreSQL-%20?style=flat&logo=postgresql&logoColor=A855F7&labelColor=0D1117&color=30363d">
+  </a>
+
+  <a href="https://www.docker.com/">
+    <img alt="Docker"
+         src="https://img.shields.io/badge/Docker-%20?style=flat&logo=docker&logoColor=A855F7&labelColor=0D1117&color=30363d">
+  </a>
+  <a href="https://www.linux.org/">
+    <img alt="Linux"
+         src="https://img.shields.io/badge/Linux-%20?style=flat&logo=linux&logoColor=A855F7&labelColor=0D1117&color=30363d">
+  </a>
+  <a href="https://supabase.com/">
+    <img alt="Supabase"
+         src="https://img.shields.io/badge/Supabase-%20?style=flat&logo=supabase&logoColor=A855F7&labelColor=0D1117&color=30363d">
+  </a>
+  <a href="https://www.sphinx-doc.org/">
+    <img alt="Sphinx"
+         src="https://img.shields.io/badge/Sphinx-%20?style=flat&logo=sphinx&logoColor=A855F7&labelColor=0D1117&color=30363d">
+  </a>
+
+  <!-- DevOps -->
+  <a href="https://github.com/">
+    <img alt="GitHub"
+         src="https://img.shields.io/badge/GitHub-%20?style=flat&logo=github&logoColor=A855F7&labelColor=0D1117&color=30363d">
+  
+  <p align="center"> <a href="https://pre-commit.com/"> <img alt="pre-commit" src="https://img.shields.io/badge/pre--commit-%20?logo=pre-commit&logoColor=A855F7&labelColor=0D1117&color=30363d"> </a>
+  
 </p>
+
 ---   
 ## 📊 Live profile metrics
 <!-- Auto-updated by .github/workflows/metrics.yml -->
