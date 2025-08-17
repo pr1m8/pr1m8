@@ -20,39 +20,28 @@ jobs:
           committer_branch: main
           committer_message: "chore: update metrics.svg"
           
-          # 🔑 PRIVATE REPOS ACCESS - KEY ADDITIONS
+          # 🔑 FORCE PRIVATE REPO ACCESS
           repositories_forks: yes
           repositories_affiliations: owner, collaborator, organization_member
-          users_ignored: ""
-          repositories_skipped: ""
+          repositories_batch: 100  # Increase batch size
           
-          # Enhanced plugins matching your theme
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
-          plugin_languages_ignored: ""
-          plugin_languages_skipped: ""
-          
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
-          
-          # 👨‍💻 Lines of code changed - INCLUDING PRIVATE REPOS
+          # 👨‍💻 Lines plugin with private repos
           plugin_lines: yes
           plugin_lines_sections: base, repositories, history
           plugin_lines_repositories_limit: 4
           plugin_lines_history_limit: 1
           plugin_lines_delay: 30
-          plugin_lines_skipped: ""  # Don't skip any repos
           
-          # 💡 Coding habits and activity - INCLUDING PRIVATE REPOS
+          # 📊 Languages with private repos  
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          
+          # 💡 Habits with private repos
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
@@ -60,9 +49,8 @@ jobs:
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
           plugin_habits_trim: yes
-          plugin_habits_skipped: ""  # Include all repos
           
-          # 📰 Recent activity - INCLUDING PRIVATE REPOS
+          # 📰 Activity with private repos
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_load: 300
@@ -70,22 +58,11 @@ jobs:
           plugin_activity_filter: all
           plugin_activity_visibility: all
           plugin_activity_timestamps: yes
-          plugin_activity_skipped: ""  # Include all repos
           
-          # 🌟 Recently starred repositories
-          plugin_stars: yes
-          plugin_stars_limit: 4
-          
-          # 📌 Starred topics
-          plugin_topics: yes
-          plugin_topics_sort: stars
-          plugin_topics_mode: starred
-          plugin_topics_limit: 15
-          
-          # 🎟️ Follow-up of issues and pull requests - INCLUDING PRIVATE REPOS
-          plugin_followup: yes
-          plugin_followup_sections: repositories
-          plugin_followup_archived: yes
-          
-          # 🧮 Repositories traffic (if you have access) - INCLUDING PRIVATE REPOS
-          plugin_traffic: yes
+          # Other plugins
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
