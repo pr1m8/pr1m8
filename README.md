@@ -14,17 +14,17 @@
   
 </p>
 
-
 ---
 
-## 👾 **Hey, I'm Will**  
+## 👾 **Hey, I'm Will**
+
 🚀 **Agent Architect | Quantitative Modeler | AI Systems Engineer**  
-🛠 **Designing intelligent systems that bridge AI, automation, and structured reasoning.**  
-
-
+🛠 **Designing intelligent systems that bridge AI, automation, and structured reasoning.**
 
 ---
+
 ## 🧰 Stack (Shields)
+
 <p align="center">
 <!-- LangChain -->
 <!-- AI / Agents -->
@@ -36,8 +36,6 @@
   <img alt="LangGraph"
        src="https://img.shields.io/badge/%20-LangGraph-30363d?style=flat&labelColor=0D1117&logo=langchain&logoColor=A855F7">
 </a>
-
-
 
   <!-- Python backend -->
   <a href="https://www.python.org/">
@@ -103,47 +101,51 @@
   
 </p>
 
----   
+---
+
 ## 📊 Live profile metrics
+
 <!-- Auto-updated by .github/workflows/metrics.yml -->
 <img src="./metrics.svg" alt="Metrics for pr1m8" />
 
----   
-
+---
 
 ### **🔹 Architecting Intelligence**
+
 **AI agents are more than just prompts and responses**—they require structured reasoning, modular execution, and real-time adaptability. My focus is on designing **scalable, interpretable, and modular AI architectures** that can dynamically retrieve, process, and act on information.
 
 🔹 **Multi-Agent Architectures** – Building intelligent, cooperative agents with dynamic workflows  
 🔹 **Graph-Based AI** – Leveraging structured data to improve reasoning and context understanding  
 🔹 **RAG Pipelines & Knowledge Retrieval** – Optimizing AI workflows for efficiency and accuracy  
-🔹 **Autonomous Decision Systems** – Integrating real-time adaptation and policy-based execution  
+🔹 **Autonomous Decision Systems** – Integrating real-time adaptation and policy-based execution
 
 ---
 
 ### **🔹 Quantitative & Computational Modeling**
+
 AI isn't just about language—it’s about **pattern recognition, probabilistic modeling, and structured intelligence**. My work integrates **quantitative finance, computational models, and AI-driven decision systems** to optimize real-world applications.
 
 📊 **Stochastic & Algorithmic Models** – Applying ML to financial markets, simulations, and predictive modeling  
 📈 **Time Series Forecasting** – Building statistical & deep learning models for market predictions  
 ⚡ **Risk & Portfolio Optimization** – Designing AI-driven investment strategies  
-🔢 **Probabilistic Graph Models** – Structuring uncertainty for AI decision-making  
+🔢 **Probabilistic Graph Models** – Structuring uncertainty for AI decision-making
 
 ---
 
 ### **🔹 Projects & Research**
-| 🔧 **Project** | 📝 **Description** |  
-|-----------|---------------|  
-| [⚡ **Haive**](https://github.com/0rac130fD31phi/haive) | Modular AI agent framework for scalable intelligence |  
-| 🔬 **FLSTAESR** | Automated RAG pipeline for structured retrieval & reasoning |  
-| 📊 **Quant AI** | Algorithmic models for data-driven decision-making |  
+
+| 🔧 **Project**                                          | 📝 **Description**                                          |
+| ------------------------------------------------------- | ----------------------------------------------------------- |
+| [⚡ **Haive**](https://github.com/0rac130fD31phi/haive) | Modular AI agent framework for scalable intelligence        |
+| 🔬 **FLSTAESR**                                         | Automated RAG pipeline for structured retrieval & reasoning |
+| 📊 **Quant AI**                                         | Algorithmic models for data-driven decision-making          |
 
 --- ![GitHub Streak](https://streak-stats.demolab.com?user=pr1m8&hide_border=true&background=0D1117&ring=8B5CF6&fire=A7F3D0&currStreakNum=E9D5FF&currStreakLabel=8B5CF6&sideNums=A7F3D0&sideLabels=6EE7B7&dates=8B5CF6)
 
-
-
 ---
+
 ## 🌐 Find Me
+
 <p align="center">
   <a href="#" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-0D1117?logo=firefox-browser&labelColor=0D1117&logoColor=A855F7&color=30363d"></a>
   <a href="#" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0D1117?logo=linkedin&labelColor=0D1117&logoColor=A855F7&color=30363d"></a>
