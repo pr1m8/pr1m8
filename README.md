@@ -24,6 +24,7 @@
 
 ---
 ## 🧰 Stack (Shields)
+
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-%20?logo=python&logoColor=A855F7&labelColor=0D1117&color=30363d">
   <img alt="Pydantic" src="https://img.shields.io/badge/Pydantic-%20?logo=pydantic&logoColor=A855F7&labelColor=0D1117&color=30363d">
