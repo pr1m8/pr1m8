@@ -25,6 +25,8 @@
 ---
 ## 🧰 Stack (Shields)
 
+
+---
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-%20?logo=python&logoColor=A855F7&labelColor=0D1117&color=30363d">
   <img alt="Pydantic" src="https://img.shields.io/badge/Pydantic-%20?logo=pydantic&logoColor=A855F7&labelColor=0D1117&color=30363d">
@@ -40,12 +42,12 @@
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-%20?logo=supabase&logoColor=A855F7&labelColor=0D1117&color=30363d">
   <img alt="Sphinx" src="https://img.shields.io/badge/Sphinx-%20?logo=sphinx&logoColor=A855F7&labelColor=0D1117&color=30363d">
 </p>
---- 
+---   
 ## 📊 Live profile metrics
 <!-- Auto-updated by .github/workflows/metrics.yml -->
 <img src="./metrics.svg" alt="Metrics for pr1m8" />
 
---- 
+---   
 
 
 ### **🔹 Architecting Intelligence**
