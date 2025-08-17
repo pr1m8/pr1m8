@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 */12 * * *"}]
+  schedule: [{ cron: "0 */12 * * *" }]
   workflow_dispatch:
 permissions:
   contents: write
@@ -11,37 +11,39 @@ jobs:
       - name: Generate profile metrics
         uses: lowlighter/metrics@latest
         with:
+          # 1) Use a CLASSIC PAT with `repo` scope, saved as METRICS_TOKEN
           token: ${{ secrets.METRICS_TOKEN }}
           user: pr1m8
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: America/Toronto
+
+          # 2) Output + commit
           filename: metrics.svg
           committer_branch: main
           committer_message: "chore: update metrics.svg"
-          
-          # 🔑 FORCE PRIVATE REPO ACCESS
-          repositories_forks: yes
-          repositories_affiliations: owner, collaborator, organization_member
-          repositories_batch: 100  # Increase batch size
-          
-          # 👨‍💻 Lines plugin with private repos
-          plugin_lines: yes
-          plugin_lines_sections: base, repositories, history
-          plugin_lines_repositories_limit: 4
-          plugin_lines_history_limit: 1
-          plugin_lines_delay: 30
-          
-          # 📊 Languages with private repos  
+
+          # 3) Base sections
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Toronto
+
+          # 4) Plugins (stable set)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
+          plugin_languages_sections: most-used
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_limit: 8
-          plugin_languages_sections: most-used
+          plugin_languages_analysis_timeout: 15
           plugin_languages_threshold: 0%
-          
-          # 💡 Habits with private repos
+
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
+          plugin_activity_timestamps: yes
+
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
@@ -49,19 +51,7 @@ jobs:
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
           plugin_habits_trim: yes
-          
-          # 📰 Activity with private repos
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_visibility: all
-          plugin_activity_timestamps: yes
-          
-          # Other plugins
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
