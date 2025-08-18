@@ -242,7 +242,6 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 
 <div align="center">
 
-### 🔥 Activity Overview
 <!-- Main metrics SVG - comprehensive view -->
 <!-- <img src="./metrics.svg" alt="Comprehensive GitHub Metrics" width="100%" /> -->
 
