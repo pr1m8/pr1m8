@@ -3,22 +3,32 @@
   Theme: Hacker Purple (+ Neon Green accent)
   Keep the palette tight and consistent across images/cards.
 -->
-<!-- Header: theme-aware typing banner -->
-<p align="center">
-  <picture>
-    <!-- Dark mode -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?lines=AI+Agent+Architect;Autonomous+Systems+Engineer;Graph+AI+%7C+RAG+%7C+Quant&font=Fira+Code&color=%23A855F7&center=true&width=720&height=50">
-    <!-- Light mode (slightly deeper violet for contrast) -->
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Agent+Architect;Autonomous+Systems+Engineer;Graph+AI+%7C+RAG+%7C+Quant&font=Fira+Code&color=%236D28D9&center=true&width=720&height=50" />
-  </picture>
-</p>
-
 ---
 
 ## 👾 **Hey, I'm Will**
 
 🚀 **Agent Architect | Quantitative Modeler | AI Systems Engineer**  
 🛠 **Designing intelligent systems that bridge AI, automation, and structured reasoning.**
+
+---
+
+## 🔹 **Core Expertise**
+
+### **Architecting Intelligence**
+AI agents are more than just prompts and responses—they require structured reasoning, modular execution, and real-time adaptability. My focus is on designing **scalable, interpretable, and modular AI architectures** that can dynamically retrieve, process, and act on information.
+
+🔹 **Multi-Agent Architectures** – Building intelligent, cooperative agents with dynamic workflows  
+🔹 **Graph-Based AI** – Leveraging structured data to improve reasoning and context understanding  
+🔹 **RAG Pipelines & Knowledge Retrieval** – Optimizing AI workflows for efficiency and accuracy  
+🔹 **Autonomous Decision Systems** – Integrating real-time adaptation and policy-based execution
+
+### **Quantitative & Computational Modeling**
+AI isn't just about language—it's about **pattern recognition, probabilistic modeling, and structured intelligence**. My work integrates **quantitative finance, computational models, and AI-driven decision systems** to optimize real-world applications.
+
+📊 **Stochastic & Algorithmic Models** – Applying ML to financial markets, simulations, and predictive modeling  
+📈 **Time Series Forecasting** – Building statistical & deep learning models for market predictions  
+⚡ **Risk & Portfolio Optimization** – Designing AI-driven investment strategies  
+🔢 **Probabilistic Graph Models** – Structuring uncertainty for AI decision-making
 
 ---
 
@@ -109,74 +119,23 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Metrics
 
 <div align="center">
 
-### 📈 Core Stats
-<table>
-<tr>
-<td align="center">
-  <!-- GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=pr1m8&show_icons=true&theme=dark&bg_color=0D1117&text_color=A855F7&title_color=A855F7&icon_color=8B5CF6&border_color=30363d&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</td>
-<td align="center">
-  <!-- GitHub streak -->
-  <img src="https://streak-stats.demolab.com?user=pr1m8&hide_border=true&background=0D1117&ring=8B5CF6&fire=A7F3D0&currStreakNum=E9D5FF&currStreakLabel=8B5CF6&sideNums=A7F3D0&sideLabels=6EE7B7&dates=8B5CF6" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
+<!-- Auto-updated metrics with lines of code -->
+<img src="./metrics.svg" alt="GitHub Metrics & Lines of Code" />
 
-### 🗣️ Languages & Activity
-<table>
-<tr>
-<td align="center">
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr1m8&layout=compact&theme=dark&bg_color=0D1117&text_color=A855F7&title_color=A855F7&border_color=30363d&hide_border=true&langs_count=8" alt="Top Languages" />
-</td>
-<td align="center">
-  <!-- Lines of code from metrics -->
-  <img src="./metrics.svg" alt="Lines of Code & Detailed Metrics" width="400" />
-</td>
-</tr>
-</table>
+<br/><br/>
 
-### 🐍 Contribution Snake
-<!-- Snake animation eating the contributions -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pr1m8/pr1m8/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/pr1m8/pr1m8/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/pr1m8/pr1m8/blob/output/github-contribution-grid-snake.svg">
-</picture>
-
-### 🏆 Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=pr1m8&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies" />
+<!-- GitHub streak -->
+<img src="https://streak-stats.demolab.com?user=pr1m8&hide_border=true&background=0D1117&ring=8B5CF6&fire=A7F3D0&currStreakNum=E9D5FF&currStreakLabel=8B5CF6&sideNums=A7F3D0&sideLabels=6EE7B7&dates=8B5CF6" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-### **🔹 Architecting Intelligence**
 
-**AI agents are more than just prompts and responses**—they require structured reasoning, modular execution, and real-time adaptability. My focus is on designing **scalable, interpretable, and modular AI architectures** that can dynamically retrieve, process, and act on information.
-
-🔹 **Multi-Agent Architectures** – Building intelligent, cooperative agents with dynamic workflows  
-🔹 **Graph-Based AI** – Leveraging structured data to improve reasoning and context understanding  
-🔹 **RAG Pipelines & Knowledge Retrieval** – Optimizing AI workflows for efficiency and accuracy  
-🔹 **Autonomous Decision Systems** – Integrating real-time adaptation and policy-based execution
-
----
-
-### **🔹 Quantitative & Computational Modeling**
-
-AI isn't just about language—it's about **pattern recognition, probabilistic modeling, and structured intelligence**. My work integrates **quantitative finance, computational models, and AI-driven decision systems** to optimize real-world applications.
-
-📊 **Stochastic & Algorithmic Models** – Applying ML to financial markets, simulations, and predictive modeling  
-📈 **Time Series Forecasting** – Building statistical & deep learning models for market predictions  
-⚡ **Risk & Portfolio Optimization** – Designing AI-driven investment strategies  
-🔢 **Probabilistic Graph Models** – Structuring uncertainty for AI decision-making
-
----
 
 ### **🔹 Projects & Research**
 
@@ -197,8 +156,22 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
   <a href="mailto:" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-0D1117?logo=gmail&labelColor=0D1117&logoColor=A855F7&color=30363d"></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pr1m8&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
-</p>
+---
 
-> *"Tools shape thought. Build tools worth thinking with."*
+<div align="center">
+
+<!-- Animated skills showcase -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?lines=AI+Agent+Architect;Autonomous+Systems+Engineer;Graph+AI+%7C+RAG+%7C+Quant&font=Fira+Code&color=%23A855F7&center=true&width=720&height=45&size=18">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Agent+Architect;Autonomous+Systems+Engineer;Graph+AI+%7C+RAG+%7C+Quant&font=Fira+Code&color=%236D28D9&center=true&width=720&height=45&size=18" />
+</picture>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=pr1m8&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
+
+<br/>
+
+*"Tools shape thought. Build tools worth thinking with."*
+
+</div>
