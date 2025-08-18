@@ -93,6 +93,7 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 <br><br>
 <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=A855F7&color=30363d" alt="Pandas" />
 <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=A855F7&color=30363d" alt="NumPy" />
+<img src="https://img.shields.io/badge/SciPy-0D1117?style=for-the-badge&logo=scipy&logoColor=A855F7&color=30363d" alt="SciPy" />
 <img src="https://img.shields.io/badge/SymPy-0D1117?style=for-the-badge&logo=sympy&logoColor=A855F7&color=30363d" alt="SymPy" />
 
 **Interactive Computing**
