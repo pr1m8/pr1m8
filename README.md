@@ -246,30 +246,6 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 <!-- Main metrics SVG - comprehensive view -->
 <img src="./metrics.svg" alt="Comprehensive GitHub Metrics" width="100%" />
 
-### 📈 Performance Stats
-<table>
-<tr>
-<td align="center">
-  <!-- GitHub streak -->
-  <img src="https://streak-stats.demolab.com?user=pr1m8&hide_border=true&background=0D1117&ring=8B5CF6&fire=A7F3D0&currStreakNum=E9D5FF&currStreakLabel=8B5CF6&sideNums=A7F3D0&sideLabels=6EE7B7&dates=8B5CF6" alt="GitHub Streak" />
-</td>
-<td align="center">
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr1m8&layout=compact&theme=dark&bg_color=0D1117&text_color=A855F7&title_color=A855F7&border_color=30363d&hide_border=true&langs_count=8" alt="Top Languages" />
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-  <!-- Lines of Code Counter -->
-  <img src="https://github-readme-stats.vercel.app/api?username=pr1m8&show_icons=true&theme=dark&bg_color=0D1117&text_color=A855F7&title_color=A855F7&icon_color=8B5CF6&border_color=30363d&hide_border=true&include_all_commits=true&count_private=true&hide=stars,issues,prs,contribs&show=prs_merged,reviews&custom_title=📊%20Lines%20of%20Code%20%26%20Contributions&line_height=27" alt="Lines of Code Stats" />
-</td>
-</tr>
-</table>
-
-### ⚡ Contribution Graph
-<!-- Contribution graph with activity -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pr1m8&bg_color=0D1117&color=A855F7&line=8B5CF6&point=A7F3D0&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-
 ### 🏆 Profile Stats
 <table>
 <tr>
@@ -283,6 +259,10 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 </td>
 </tr>
 </table>
+
+### ⚡ Contribution Graph
+<!-- Contribution graph with activity -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pr1m8&bg_color=0D1117&color=A855F7&line=8B5CF6&point=A7F3D0&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 
 ### 🌊 Activity Heatmap
 <!-- Snake animation eating the contributions -->
