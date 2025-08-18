@@ -291,38 +291,56 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 
 
 
-## 🚀 Featured Projects & Research
+## 🚀 Featured Projects
 
 <div align="center">
 
-### 🤖 **[Haive - Modular AI Agent Framework](https://github.com/0rac130fD31phi/haive)**
-**Multi-Agent Intelligence • LangChain • Graph-Based Reasoning**
-
-> Scalable AI agent framework designed for modular execution and real-time adaptability. Features dynamic workflow orchestration, structured reasoning, and cooperative multi-agent architectures.
-
-[![Repo](https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=A855F7&color=30363d)](https://github.com/0rac130fD31phi/haive)
-[![Demo](https://img.shields.io/badge/Live_Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=A855F7&color=30363d)](#)
-[![Docs](https://img.shields.io/badge/Documentation-0D1117?style=for-the-badge&logo=gitbook&logoColor=A855F7&color=30363d)](#)
-
----
-
-### 🔬 **FLSTAESR - Automated RAG Pipeline**
-**Retrieval-Augmented Generation • Vector Search • Knowledge Processing**
-
-> Advanced RAG pipeline for structured information retrieval and reasoning. Integrates multiple vector stores, dynamic query optimization, and automated knowledge graph construction.
-
-[![Repo](https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=A855F7&color=30363d)](#)
-[![Paper](https://img.shields.io/badge/Research_Paper-0D1117?style=for-the-badge&logo=arxiv&logoColor=A855F7&color=30363d)](#)
-
----
-
-### 📊 **Quantitative AI Systems**
-**Algorithmic Trading • Stochastic Models • Risk Optimization**
-
-> AI-driven quantitative models for financial markets. Features probabilistic forecasting, portfolio optimization, and real-time market analysis using deep learning and statistical modeling.
-
-[![Repo](https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=A855F7&color=30363d)](#)
-[![Research](https://img.shields.io/badge/Research_Notes-0D1117?style=for-the-badge&logo=notion&logoColor=A855F7&color=30363d)](#)
+<table>
+<tr>
+<th align="center">Project</th>
+<th align="center">Description</th>
+<th align="center">Tech Stack</th>
+<th align="center">Status</th>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/0rac130fD31phi/haive">
+    <img src="https://img.shields.io/badge/⚡_Haive-0D1117?style=for-the-badge&logoColor=A855F7" alt="Haive" />
+  </a>
+</td>
+<td>Modular AI agent framework for scalable intelligence</td>
+<td>
+  <img src="https://img.shields.io/badge/LangChain-0D1117?style=flat&logo=langchain&logoColor=A855F7" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat&logo=python&logoColor=A855F7" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat&logo=fastapi&logoColor=A855F7" alt="FastAPI" />
+</td>
+<td>🟢 Active</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/🔬_FLSTAESR-0D1117?style=for-the-badge&logoColor=A855F7" alt="FLSTAESR" />
+</td>
+<td>Automated RAG pipeline for structured retrieval & reasoning</td>
+<td>
+  <img src="https://img.shields.io/badge/Graph_AI-0D1117?style=flat&logoColor=A855F7" alt="Graph AI" />
+  <img src="https://img.shields.io/badge/Vector_DB-0D1117?style=flat&logoColor=A855F7" alt="Vector DB" />
+  <img src="https://img.shields.io/badge/ML-0D1117?style=flat&logoColor=A855F7" alt="ML" />
+</td>
+<td>🟡 Development</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/📊_Quant_AI-0D1117?style=for-the-badge&logoColor=A855F7" alt="Quant AI" />
+</td>
+<td>Algorithmic models for data-driven decision-making</td>
+<td>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat&logo=python&logoColor=A855F7" alt="Python" />
+  <img src="https://img.shields.io/badge/Statistics-0D1117?style=flat&logoColor=A855F7" alt="Statistics" />
+  <img src="https://img.shields.io/badge/Finance-0D1117?style=flat&logoColor=A855F7" alt="Finance" />
+</td>
+<td>🟢 Active</td>
+</tr>
+</table>
 
 </div>
 
