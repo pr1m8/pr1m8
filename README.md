@@ -262,20 +262,47 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 </p>
 ---
 
-## 📊 GitHub Metrics
+## 📊 GitHub Analytics Dashboard
 
 <div align="center">
 
-<!-- Auto-updated metrics with lines of code - full size -->
-<img src="./metrics.svg" alt="GitHub Metrics & Lines of Code" width="100%" />
+### 🔥 Activity Overview
+<!-- Main metrics SVG - comprehensive view -->
+<img src="./metrics.svg" alt="Comprehensive GitHub Metrics" width="100%" />
 
-<br/><br/>
+### 📈 Performance Stats
+<table>
+<tr>
+<td align="center">
+  <!-- GitHub streak -->
+  <img src="https://streak-stats.demolab.com?user=pr1m8&hide_border=true&background=0D1117&ring=8B5CF6&fire=A7F3D0&currStreakNum=E9D5FF&currStreakLabel=8B5CF6&sideNums=A7F3D0&sideLabels=6EE7B7&dates=8B5CF6" alt="GitHub Streak" />
+</td>
+<td align="center">
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr1m8&layout=compact&theme=dark&bg_color=0D1117&text_color=A855F7&title_color=A855F7&border_color=30363d&hide_border=true&langs_count=8" alt="Top Languages" />
+</td>
+</tr>
+</table>
 
-<!-- GitHub streak -->
-<img src="https://streak-stats.demolab.com?user=pr1m8&hide_border=true&background=0D1117&ring=8B5CF6&fire=A7F3D0&currStreakNum=E9D5FF&currStreakLabel=8B5CF6&sideNums=A7F3D0&sideLabels=6EE7B7&dates=8B5CF6" alt="GitHub Streak" />
+### ⚡ Contribution Graph
+<!-- Contribution graph with activity -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pr1m8&bg_color=0D1117&color=A855F7&line=8B5CF6&point=A7F3D0&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 
-<br/><br/>
+### 🏆 Profile Stats
+<table>
+<tr>
+<td align="center">
+  <!-- GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=pr1m8&show_icons=true&theme=dark&bg_color=0D1117&text_color=A855F7&title_color=A855F7&icon_color=8B5CF6&border_color=30363d&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</td>
+<td align="center">
+  <!-- Trophy display -->
+  <img src="https://github-profile-trophy.vercel.app/?username=pr1m8&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies" />
+</td>
+</tr>
+</table>
 
+### 🌊 Activity Heatmap
 <!-- Snake animation eating the contributions -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pr1m8/pr1m8/blob/output/github-contribution-grid-snake-dark.svg">
