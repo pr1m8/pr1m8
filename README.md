@@ -36,14 +36,6 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 
 <p align="center">
 <!-- AI / ML Frameworks -->
-<a href="https://openai.com/">
-  <img alt="OpenAI"
-       src="https://img.shields.io/badge/OpenAI-%20?style=flat&logo=openai&logoColor=A855F7&labelColor=0D1117&color=30363d">
-</a>
-<a href="https://www.anthropic.com/">
-  <img alt="Anthropic"
-       src="https://img.shields.io/badge/Anthropic-%20?style=flat&logo=anthropic&logoColor=A855F7&labelColor=0D1117&color=30363d">
-</a>
 <a href="https://www.langchain.com/">
   <img alt="LangChain"
        src="https://img.shields.io/badge/%20-LangChain-30363d?style=flat&labelColor=0D1117&logo=langchain&logoColor=A855F7">
@@ -51,6 +43,14 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 <a href="https://langgraph.dev/">
   <img alt="LangGraph"
        src="https://img.shields.io/badge/%20-LangGraph-30363d?style=flat&labelColor=0D1117&logo=langchain&logoColor=A855F7">
+</a>
+<a href="https://openai.com/">
+  <img alt="OpenAI"
+       src="https://img.shields.io/badge/OpenAI-%20?style=flat&logo=openai&logoColor=A855F7&labelColor=0D1117&color=30363d">
+</a>
+<a href="https://www.anthropic.com/">
+  <img alt="Anthropic"
+       src="https://img.shields.io/badge/Anthropic-%20?style=flat&logo=anthropic&logoColor=A855F7&labelColor=0D1117&color=30363d">
 </a>
 <a href="https://www.tensorflow.org/">
   <img alt="TensorFlow"
@@ -82,15 +82,15 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 <!-- Vector Stores -->
 <a href="https://www.pinecone.io/">
   <img alt="Pinecone"
-       src="https://img.shields.io/badge/Pinecone-%20?style=flat&logo=pinecone&logoColor=A855F7&labelColor=0D1117&color=30363d">
+       src="https://img.shields.io/badge/Pinecone-%20?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMjIgOEwxMiAxNEwyIDhMMTIgMloiIGZpbGw9IiNBODU1RjciLz4KPHBhdGggZD0iTTIgMTZMMTIgMjJMMjIgMTZMMTIgMTBMMiAxNloiIGZpbGw9IiNBODU1RjciLz4KPC9zdmc+&logoColor=A855F7&labelColor=0D1117&color=30363d">
 </a>
 <a href="https://www.trychroma.com/">
   <img alt="Chroma"
-       src="https://img.shields.io/badge/Chroma-%20?style=flat&logo=chromadb&logoColor=A855F7&labelColor=0D1117&color=30363d">
+       src="https://img.shields.io/badge/Chroma-%20?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IiNBODU1RjciLz4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNiIgZmlsbD0iIzBEMTExNyIvPgo8L3N2Zz4=&logoColor=A855F7&labelColor=0D1117&color=30363d">
 </a>
 <a href="https://weaviate.io/">
   <img alt="Weaviate"
-       src="https://img.shields.io/badge/Weaviate-%20?style=flat&logo=weaviate&logoColor=A855F7&labelColor=0D1117&color=30363d">
+       src="https://img.shields.io/badge/Weaviate-%20?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMjAgOEwxMiAxNEw0IDhMMTIgMloiIGZpbGw9IiNBODU1RjciLz4KPHBhdGggZD0iTTQgMTBMMTIgMTZMMjAgMTBNNCAxNEwxMiAyMEwyMCAxNCIgc3Ryb2tlPSIjQTg1NUY3IiBzdHJva2Utd2lkdGg9IjIiIGZpbGw9Im5vbmUiLz4KPC9zdmc+&logoColor=A855F7&labelColor=0D1117&color=30363d">
 </a>
 <a href="https://github.com/facebookresearch/faiss">
   <img alt="FAISS"
