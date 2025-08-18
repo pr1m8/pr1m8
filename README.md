@@ -32,90 +32,135 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Stack (Shields)
 
-<details>
-<summary><b>🤖 AI & Agents</b></summary>
-<br>
 <p align="center">
+<!-- AI / ML Frameworks -->
 <a href="https://www.langchain.com/">
-  <img alt="LangChain" src="https://img.shields.io/badge/%20-LangChain-30363d?style=flat&labelColor=0D1117&logo=langchain&logoColor=A855F7">
+  <img alt="LangChain"
+       src="https://img.shields.io/badge/%20-LangChain-30363d?style=flat&labelColor=0D1117&logo=langchain&logoColor=A855F7">
 </a>
 <a href="https://langgraph.dev/">
-  <img alt="LangGraph" src="https://img.shields.io/badge/%20-LangGraph-30363d?style=flat&labelColor=0D1117&logo=langchain&logoColor=A855F7">
+  <img alt="LangGraph"
+       src="https://img.shields.io/badge/%20-LangGraph-30363d?style=flat&labelColor=0D1117&logo=langchain&logoColor=A855F7">
 </a>
-</p>
-</details>
+<a href="https://www.tensorflow.org/">
+  <img alt="TensorFlow"
+       src="https://img.shields.io/badge/TensorFlow-%20?style=flat&logo=tensorflow&logoColor=A855F7&labelColor=0D1117&color=30363d">
+</a>
+<a href="https://pytorch.org/">
+  <img alt="PyTorch"
+       src="https://img.shields.io/badge/PyTorch-%20?style=flat&logo=pytorch&logoColor=A855F7&labelColor=0D1117&color=30363d">
+</a>
+<a href="https://scikit-learn.org/">
+  <img alt="Scikit-Learn"
+       src="https://img.shields.io/badge/Scikit--Learn-%20?style=flat&logo=scikit-learn&logoColor=A855F7&labelColor=0D1117&color=30363d">
+</a>
+<a href="https://huggingface.co/">
+  <img alt="Hugging Face"
+       src="https://img.shields.io/badge/Hugging%20Face-%20?style=flat&logo=huggingface&logoColor=A855F7&labelColor=0D1117&color=30363d">
+</a>
 
-<details>
-<summary><b>⚡ Backend & API</b></summary>
-<br>
-<p align="center">
+<!-- Data Science -->
+<a href="https://pandas.pydata.org/">
+  <img alt="Pandas"
+       src="https://img.shields.io/badge/Pandas-%20?style=flat&logo=pandas&logoColor=A855F7&labelColor=0D1117&color=30363d">
+</a>
+<a href="https://numpy.org/">
+  <img alt="NumPy"
+       src="https://img.shields.io/badge/NumPy-%20?style=flat&logo=numpy&logoColor=A855F7&labelColor=0D1117&color=30363d">
+</a>
+
+<!-- Vector Stores -->
+<a href="https://www.pinecone.io/">
+  <img alt="Pinecone"
+       src="https://img.shields.io/badge/Pinecone-%20?style=flat&logo=pinecone&logoColor=A855F7&labelColor=0D1117&color=30363d">
+</a>
+<a href="https://www.trychroma.com/">
+  <img alt="Chroma"
+       src="https://img.shields.io/badge/Chroma-%20?style=flat&logoColor=A855F7&labelColor=0D1117&color=30363d">
+</a>
+<a href="https://weaviate.io/">
+  <img alt="Weaviate"
+       src="https://img.shields.io/badge/Weaviate-%20?style=flat&logo=weaviate&logoColor=A855F7&labelColor=0D1117&color=30363d">
+</a>
+<a href="https://github.com/facebookresearch/faiss">
+  <img alt="FAISS"
+       src="https://img.shields.io/badge/FAISS-%20?style=flat&logo=meta&logoColor=A855F7&labelColor=0D1117&color=30363d">
+</a>
+
+<!-- Python Backend -->
 <a href="https://www.python.org/">
-  <img alt="Python" src="https://img.shields.io/badge/Python-%20?style=flat&logo=python&logoColor=A855F7&labelColor=0D1117&color=30363d">
+  <img alt="Python"
+       src="https://img.shields.io/badge/Python-%20?style=flat&logo=python&logoColor=A855F7&labelColor=0D1117&color=30363d">
 </a>
 <a href="https://docs.pydantic.dev/">
-  <img alt="Pydantic" src="https://img.shields.io/badge/Pydantic-%20?style=flat&logo=pydantic&logoColor=A855F7&labelColor=0D1117&color=30363d">
+  <img alt="Pydantic"
+       src="https://img.shields.io/badge/Pydantic-%20?style=flat&logo=pydantic&logoColor=A855F7&labelColor=0D1117&color=30363d">
 </a>
 <a href="https://fastapi.tiangolo.com/">
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%20?style=flat&logo=fastapi&logoColor=A855F7&labelColor=0D1117&color=30363d">
+  <img alt="FastAPI"
+       src="https://img.shields.io/badge/FastAPI-%20?style=flat&logo=fastapi&logoColor=A855F7&labelColor=0D1117&color=30363d">
 </a>
-</p>
-</details>
+<a href="https://flask.palletsprojects.com/">
+  <img alt="Flask"
+       src="https://img.shields.io/badge/Flask-%20?style=flat&logo=flask&logoColor=A855F7&labelColor=0D1117&color=30363d">
+</a>
 
-<details>
-<summary><b>🎨 Frontend</b></summary>
-<br>
-<p align="center">
+<!-- Frontend -->
 <a href="https://www.typescriptlang.org/">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%20?style=flat&logo=typescript&logoColor=A855F7&labelColor=0D1117&color=30363d">
+  <img alt="TypeScript"
+       src="https://img.shields.io/badge/TypeScript-%20?style=flat&logo=typescript&logoColor=A855F7&labelColor=0D1117&color=30363d">
 </a>
 <a href="https://react.dev/">
-  <img alt="React" src="https://img.shields.io/badge/React-%20?style=flat&logo=react&logoColor=A855F7&labelColor=0D1117&color=30363d">
+  <img alt="React"
+       src="https://img.shields.io/badge/React-%20?style=flat&logo=react&logoColor=A855F7&labelColor=0D1117&color=30363d">
 </a>
 <a href="https://nextjs.org/">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%20?style=flat&logo=nextdotjs&logoColor=A855F7&labelColor=0D1117&color=30363d">
+  <img alt="Next.js"
+       src="https://img.shields.io/badge/Next.js-%20?style=flat&logo=nextdotjs&logoColor=A855F7&labelColor=0D1117&color=30363d">
 </a>
 <a href="https://tauri.app/">
-  <img alt="Tauri" src="https://img.shields.io/badge/Tauri-%20?style=flat&logo=tauri&logoColor=A855F7&labelColor=0D1117&color=30363d">
+  <img alt="Tauri"
+       src="https://img.shields.io/badge/Tauri-%20?style=flat&logo=tauri&logoColor=A855F7&labelColor=0D1117&color=30363d">
 </a>
-</p>
-</details>
 
-<details>
-<summary><b>🗄️ Data & Infrastructure</b></summary>
-<br>
-<p align="center">
+<!-- Data & Infrastructure -->
 <a href="https://www.postgresql.org/">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%20?style=flat&logo=postgresql&logoColor=A855F7&labelColor=0D1117&color=30363d">
+  <img alt="PostgreSQL"
+       src="https://img.shields.io/badge/PostgreSQL-%20?style=flat&logo=postgresql&logoColor=A855F7&labelColor=0D1117&color=30363d">
+</a>
+<a href="https://redis.io/">
+  <img alt="Redis"
+       src="https://img.shields.io/badge/Redis-%20?style=flat&logo=redis&logoColor=A855F7&labelColor=0D1117&color=30363d">
 </a>
 <a href="https://www.docker.com/">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-%20?style=flat&logo=docker&logoColor=A855F7&labelColor=0D1117&color=30363d">
+  <img alt="Docker"
+       src="https://img.shields.io/badge/Docker-%20?style=flat&logo=docker&logoColor=A855F7&labelColor=0D1117&color=30363d">
 </a>
 <a href="https://www.linux.org/">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-%20?style=flat&logo=linux&logoColor=A855F7&labelColor=0D1117&color=30363d">
+  <img alt="Linux"
+       src="https://img.shields.io/badge/Linux-%20?style=flat&logo=linux&logoColor=A855F7&labelColor=0D1117&color=30363d">
 </a>
 <a href="https://supabase.com/">
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-%20?style=flat&logo=supabase&logoColor=A855F7&labelColor=0D1117&color=30363d">
+  <img alt="Supabase"
+       src="https://img.shields.io/badge/Supabase-%20?style=flat&logo=supabase&logoColor=A855F7&labelColor=0D1117&color=30363d">
 </a>
-</p>
-</details>
 
-<details>
-<summary><b>🔧 DevOps & Tools</b></summary>
-<br>
-<p align="center">
+<!-- DevOps & Tools -->
 <a href="https://github.com/">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%20?style=flat&logo=github&logoColor=A855F7&labelColor=0D1117&color=30363d">
+  <img alt="GitHub"
+       src="https://img.shields.io/badge/GitHub-%20?style=flat&logo=github&logoColor=A855F7&labelColor=0D1117&color=30363d">
 </a>
 <a href="https://pre-commit.com/">
-  <img alt="pre-commit" src="https://img.shields.io/badge/pre--commit-%20?logo=pre-commit&logoColor=A855F7&labelColor=0D1117&color=30363d">
+  <img alt="pre-commit"
+       src="https://img.shields.io/badge/pre--commit-%20?logo=pre-commit&logoColor=A855F7&labelColor=0D1117&color=30363d">
 </a>
 <a href="https://www.sphinx-doc.org/">
-  <img alt="Sphinx" src="https://img.shields.io/badge/Sphinx-%20?style=flat&logo=sphinx&logoColor=A855F7&labelColor=0D1117&color=30363d">
+  <img alt="Sphinx"
+       src="https://img.shields.io/badge/Sphinx-%20?style=flat&logo=sphinx&logoColor=A855F7&labelColor=0D1117&color=30363d">
 </a>
 </p>
-</details>
 
 ---
 
@@ -123,13 +168,22 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 
 <div align="center">
 
-<!-- Auto-updated metrics with lines of code -->
-<img src="./metrics.svg" alt="GitHub Metrics & Lines of Code" />
+<!-- Auto-updated metrics with lines of code - full size -->
+<img src="./metrics.svg" alt="GitHub Metrics & Lines of Code" width="100%" />
 
 <br/><br/>
 
 <!-- GitHub streak -->
 <img src="https://streak-stats.demolab.com?user=pr1m8&hide_border=true&background=0D1117&ring=8B5CF6&fire=A7F3D0&currStreakNum=E9D5FF&currStreakLabel=8B5CF6&sideNums=A7F3D0&sideLabels=6EE7B7&dates=8B5CF6" alt="GitHub Streak" />
+
+<br/><br/>
+
+<!-- Snake animation eating the contributions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pr1m8/pr1m8/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/pr1m8/pr1m8/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/pr1m8/pr1m8/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
