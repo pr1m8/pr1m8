@@ -296,8 +296,8 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 
 *Showcasing innovation across AI agents, knowledge systems, and quantitative modeling*
 
-<!-- PROJECTS START -->
-<!-- PROJECTS END -->
+<!-- Auto-generated projects display -->
+<img src="./projects-metrics.svg" alt="Featured Projects" width="100%" />
 
 ### 📌 Pinned Repositories
 
