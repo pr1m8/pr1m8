@@ -174,13 +174,13 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 <br><br>
 <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=A855F7&color=30363d" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=A855F7&color=30363d" alt="GitHub" />
-<img src="https://img.shields.io/badge/GitLab-0D1117?style=for-the-badge&logo=gitlab&logoColor=FCA121&color=30363d" alt="GitLab" />
+<img src="https://img.shields.io/badge/GitLab-0D1117?style=for-the-badge&logo=gitlab&logoColor=A855F7&color=30363d" alt="GitLab" />
 <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=github-actions&logoColor=A855F7&color=30363d" alt="GitHub Actions" />
 
 **Package Management**
 <br><br>
 <img src="https://img.shields.io/badge/Poetry-0D1117?style=for-the-badge&logo=poetry&logoColor=A855F7&color=30363d" alt="Poetry" />
-<img src="https://img.shields.io/badge/uv-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="uv" />
+<img src="https://img.shields.io/badge/uv-0D1117?style=for-the-badge&logo=python&logoColor=A855F7&color=30363d" alt="uv" />
 <img src="https://img.shields.io/badge/pnpm-0D1117?style=for-the-badge&logo=pnpm&logoColor=A855F7&color=30363d" alt="pnpm" />
 <img src="https://img.shields.io/badge/Hatch-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="Hatch" />
 
@@ -190,14 +190,14 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 <img src="https://img.shields.io/badge/Ruff-0D1117?style=for-the-badge&logo=ruff&logoColor=A855F7&color=30363d" alt="Ruff" />
 <img src="https://img.shields.io/badge/Black-0D1117?style=for-the-badge&logo=python&logoColor=A855F7&color=30363d" alt="Black" />
 <img src="https://img.shields.io/badge/pre--commit-0D1117?style=for-the-badge&logo=pre-commit&logoColor=A855F7&color=30363d" alt="pre-commit" />
-<img src="https://img.shields.io/badge/Trunk-0D1117?style=for-the-badge&logo=trunk&logoColor=00B5F8&color=30363d" alt="Trunk" />
+<img src="https://img.shields.io/badge/Trunk-0D1117?style=for-the-badge&logo=trunk&logoColor=A855F7&color=30363d" alt="Trunk" />
 
 **Documentation & Templates**
 <br><br>
 <img src="https://img.shields.io/badge/Sphinx-0D1117?style=for-the-badge&logo=sphinx&logoColor=A855F7&color=30363d" alt="Sphinx" />
 <img src="https://img.shields.io/badge/Jinja2-0D1117?style=for-the-badge&logo=jinja&logoColor=A855F7&color=30363d" alt="Jinja2" />
-<img src="https://img.shields.io/badge/Copier-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="Copier" />
-<img src="https://img.shields.io/badge/Commitizen-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="Commitizen" />
+<img src="https://img.shields.io/badge/Copier-0D1117?style=for-the-badge&logo=python&logoColor=A855F7&color=30363d" alt="Copier" />
+<img src="https://img.shields.io/badge/Commitizen-0D1117?style=for-the-badge&logo=git&logoColor=A855F7&color=30363d" alt="Commitizen" />
 
 </div>
 </details>
