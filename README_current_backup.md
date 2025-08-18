@@ -5,23 +5,10 @@
 -->
 ---
 
-<div align="center">
+## 👾 **Hey, I'm Will**
 
-# 👾 Hey, I'm Will
-
-**Agent Architect | Quantitative Modeler | AI Systems Engineer**
-
-<!-- Main typing animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?lines=AI+Agent+Architect;Autonomous+Systems+Engineer;Graph+AI+%7C+RAG+%7C+Quant&font=Fira+Code&color=%23A855F7&center=true&width=720&height=50&size=22">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Agent+Architect;Autonomous+Systems+Engineer;Graph+AI+%7C+RAG+%7C+Quant&font=Fira+Code&color=%236D28D9&center=true&width=720&height=50&size=22" />
-</picture>
-
-<br/>
-
-*Designing intelligent systems that bridge AI, automation, and structured reasoning*
-
-</div>
+🚀 **Agent Architect | Quantitative Modeler | AI Systems Engineer**  
+🛠 **Designing intelligent systems that bridge AI, automation, and structured reasoning.**
 
 ---
 
