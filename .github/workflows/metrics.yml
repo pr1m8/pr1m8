@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{ cron: "0 */12 * * *" }]  # Every 12 hours
+  schedule: [{ cron: 0 */12 * * * }] # Every 12 hours
   workflow_dispatch:
 permissions:
   contents: write
@@ -11,42 +11,71 @@ jobs:
       - name: Generate profile metrics
         uses: lowlighter/metrics@latest
         with:
-          # Use CLASSIC PAT with `repo` scope, saved as METRICS_TOKEN
+          # TODO: Consider moving this to a separate config file for better organization
+          # Location: Store generated metrics.svg in root for README embedding
+
+          # 1) Authentication & User
           token: ${{ secrets.METRICS_TOKEN }}
           user: pr1m8
 
-          # Output configuration
+          # 2) Output Configuration
           filename: metrics.svg
           committer_branch: main
           committer_message: "chore: update metrics.svg"
 
-          # Base template - clean and simple
+          # 3) Base Template & Sections
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Toronto
 
-          # Lines of code plugin - main feature we want
-          plugin_lines: yes
-          plugin_lines_sections: base
-          plugin_lines_repositories_limit: 4
-          plugin_lines_history_limit: 1
+          # 4) Calendar Plugin - Contribution visualization
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
-          # Languages - keep it simple
+          # 5) Languages Plugin - Code statistics
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_limit: 8
+          plugin_languages_analysis_timeout: 15
           plugin_languages_threshold: 0%
 
-          # Recent activity - minimal
+          # 6) Activity Plugin - Recent activity tracking
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
-          plugin_activity_load: 100
+          plugin_activity_load: 300
           plugin_activity_visibility: all
+          plugin_activity_timestamps: yes
 
-          # Achievements - simple display
+          # 7) Habits Plugin - Coding patterns analysis
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_trim: yes
+
+          # 8) Achievements Plugin - GitHub milestones
           plugin_achievements: yes
-          plugin_achievements_display: compact
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
+
+          # 9) Lines Plugin - Total lines of code statistics
+          plugin_lines: yes
+          plugin_lines_sections: base
+
+          # 10) Notable Plugin - Pinned repositories display
+          plugin_notable: yes
+          plugin_notable_from: organization
+          plugin_notable_repositories: yes
+
+          # TODO: Consider adding these advanced plugins:
+          # plugin_pagespeed: yes                # Website performance (requires URL)
+          # plugin_stackoverflow: yes            # Stack Overflow stats (requires ID)
+          # plugin_wakatime: yes                 # Time tracking (requires WakaTime setup)
+          # plugin_code: yes                     # Code snippet display
+          # plugin_followup: yes                 # Follow-up on issues/PRs
