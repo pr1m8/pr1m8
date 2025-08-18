@@ -28,6 +28,11 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/Toronto
 
+          # Enhanced display options
+          config_display: large
+          config_output: svg
+          config_animations: yes
+
           # 4) Calendar Plugin - Contribution visualization
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -70,9 +75,21 @@ jobs:
           # 9) Lines Plugin - Enhanced lines of code statistics
           plugin_lines: yes
           plugin_lines_sections: base, repositories, history
-          plugin_lines_repositories_limit: 8
-          plugin_lines_history_limit: 2
+          plugin_lines_repositories_limit: 10
+          plugin_lines_history_limit: 5
           plugin_lines_skipped: ""
+
+          # 9.5) Followup Plugin - Issues and PRs tracking
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
+          plugin_followup_indepth: yes
+
+          # 9.6) People Plugin - Followers and following
+          plugin_people: yes
+          plugin_people_types: followers, following
+          plugin_people_limit: 24
+          plugin_people_identicons: yes
+          plugin_people_thanks: yes
 
           # 10) Notable Plugin - Pinned repositories display
           plugin_notable: yes
@@ -109,9 +126,16 @@ jobs:
           plugin_code_days: 3
           plugin_code_visibility: public
 
-          # TODO: Consider adding these advanced plugins:
+          # 17) Introduction Plugin - Profile introduction
+          plugin_introduction: yes
+          plugin_introduction_title: yes
+
+          # 18) Support Plugin - Sponsor information
+          plugin_support: yes
+
+          # 19) Enhanced configuration
+          config_base64: yes
+          # TODO: Consider adding these advanced plugins when secrets are available:
           # plugin_pagespeed: yes                # Website performance (requires URL)
           # plugin_stackoverflow: yes            # Stack Overflow stats (requires ID)
           # plugin_wakatime: yes                 # Time tracking (requires WakaTime setup)
-          # plugin_code: yes                     # Code snippet display
-          # plugin_followup: yes                 # Follow-up on issues/PRs

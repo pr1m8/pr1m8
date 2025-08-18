@@ -258,6 +258,12 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr1m8&layout=compact&theme=dark&bg_color=0D1117&text_color=A855F7&title_color=A855F7&border_color=30363d&hide_border=true&langs_count=8" alt="Top Languages" />
 </td>
 </tr>
+<tr>
+<td align="center" colspan="2">
+  <!-- Lines of Code Counter -->
+  <img src="https://github-readme-stats.vercel.app/api?username=pr1m8&show_icons=true&theme=dark&bg_color=0D1117&text_color=A855F7&title_color=A855F7&icon_color=8B5CF6&border_color=30363d&hide_border=true&include_all_commits=true&count_private=true&hide=stars,issues,prs,contribs&show=prs_merged,reviews&custom_title=📊%20Lines%20of%20Code%20%26%20Contributions&line_height=27" alt="Lines of Code Stats" />
+</td>
+</tr>
 </table>
 
 ### ⚡ Contribution Graph
@@ -268,12 +274,24 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 <table>
 <tr>
 <td align="center">
-  <!-- GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=pr1m8&show_icons=true&theme=dark&bg_color=0D1117&text_color=A855F7&title_color=A855F7&icon_color=8B5CF6&border_color=30363d&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <!-- GitHub stats with enhanced metrics -->
+  <img src="https://github-readme-stats.vercel.app/api?username=pr1m8&show_icons=true&theme=dark&bg_color=0D1117&text_color=A855F7&title_color=A855F7&icon_color=8B5CF6&border_color=30363d&hide_border=true&include_all_commits=true&count_private=true&show_prs=true&show_issues=true&show_owner=true" alt="GitHub Stats" />
 </td>
 <td align="center">
   <!-- Trophy display -->
   <img src="https://github-profile-trophy.vercel.app/?username=pr1m8&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies" />
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+  <!-- Comprehensive metrics with lines of code -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pr1m8&show_icons=true&theme=dark&bg_color=0D1117&text_color=A855F7&title_color=A855F7&icon_color=8B5CF6&border_color=30363d&hide_border=true&include_all_commits=true&count_private=true&line_height=27&custom_title=Will's%20GitHub%20Analytics&show_owner=true" alt="Comprehensive GitHub Stats" />
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+  <!-- GitHub stats with lines of code -->
+  <img src="https://github-readme-stats.vercel.app/api?username=pr1m8&show_icons=true&theme=dark&bg_color=0D1117&text_color=A855F7&title_color=A855F7&icon_color=8B5CF6&border_color=30363d&hide_border=true&include_all_commits=true&count_private=true&hide=issues&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=Contribution%20Summary" alt="Contribution Stats" />
 </td>
 </tr>
 </table>
