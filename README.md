@@ -149,6 +149,9 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 <a href="https://supabase.com/">
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-%20?style=flat&logo=supabase&logoColor=A855F7&labelColor=0D1117&color=30363d">
 </a>
+<a href="https://trunk.io/">
+  <img alt="trunk" src="https://img.shields.io/badge/trunk-%20?logo=trunk&logoColor=00B5F8&labelColor=0D1117&color=30363d">
+</a>
 </p>
 
 ### 🛠️ **DevOps & Tools**
@@ -164,6 +167,10 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 <a href="https://www.sphinx-doc.org/">
   <img alt="Sphinx" src="https://img.shields.io/badge/Sphinx-%20?style=flat&logo=sphinx&logoColor=A855F7&labelColor=0D1117&color=30363d">
 </a>
+<a href="https://gitlab.com/">
+  <img alt="gitlab" src="https://img.shields.io/badge/gitlab-%20?logo=gitlab&logoColor=FCA121&labelColor=0D1117&color=30363d">
+</a>
+
 </p>
 
 ---
