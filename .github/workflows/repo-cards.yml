@@ -1,0 +1,51 @@
+name: Update Repository Cards
+on:
+  schedule:
+    - cron: '0 8 * * *'  # Daily at 8 AM
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-repo-cards:
+    name: Update README with repository cards
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update README with repo cards
+        uses: eddiejaoude/github-stats-transparent@master
+        with:
+          username: pr1m8
+          
+      - name: Update pinned repositories
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: pr1m8
+          template: repository
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_order: featured, pinned, starred, random
+          plugin_repositories_forks: yes
+          plugin_repositories_affiliations: owner, collaborator
+          repositories_batch: 10
+          filename: repository-metrics.svg
+          
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update repository cards and metrics
+
+            🤖 Generated with GitHub Actions
+            
+            Co-Authored-By: GitHub Actions <action@github.com>"
+            git push
+          fi

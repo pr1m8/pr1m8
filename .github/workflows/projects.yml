@@ -1,0 +1,46 @@
+name: Update Projects Display
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['README.md']
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-projects:
+    name: Update README with latest project updates
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Update projects section
+        uses: kaustubhgupta/readme-projects-display@master
+        with:
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          max_repo_description: 120
+          project_sort_by: 'stars'
+          allow_forks: false
+          file_name: 'README.md'
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update projects display
+
+            🤖 Generated with GitHub Actions
+            
+            Co-Authored-By: GitHub Actions <action@github.com>"
+            git push
+          fi
