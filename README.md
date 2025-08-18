@@ -346,31 +346,70 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 
 ---
 
-## 🌐 Find Me
-
-<p align="center">
-  <a href="#" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-0D1117?logo=firefox-browser&labelColor=0D1117&logoColor=A855F7&color=30363d"></a>
-  <a href="#" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0D1117?logo=linkedin&labelColor=0D1117&logoColor=A855F7&color=30363d"></a>
-  <a href="#" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-0D1117?logo=x&labelColor=0D1117&logoColor=A855F7&color=30363d"></a>
-  <a href="mailto:" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-0D1117?logo=gmail&labelColor=0D1117&logoColor=A855F7&color=30363d"></a>
-</p>
-
----
+## 🌐 Connect & Collaborate
 
 <div align="center">
 
-<!-- Animated skills showcase -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?lines=AI+Agent+Architect;Autonomous+Systems+Engineer;Graph+AI+%7C+RAG+%7C+Quant&font=Fira+Code&color=%23A855F7&center=true&width=720&height=45&size=18">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Agent+Architect;Autonomous+Systems+Engineer;Graph+AI+%7C+RAG+%7C+Quant&font=Fira+Code&color=%236D28D9&center=true&width=720&height=45&size=18" />
-</picture>
+<table>
+<tr>
+<td align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Website-0D1117?style=for-the-badge&logoColor=A855F7" alt="Website" />
+  </a>
+</td>
+<td align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn" />
+  </a>
+</td>
+<td align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/🐦_X-0D1117?style=for-the-badge&logo=x&logoColor=A855F7" alt="X" />
+  </a>
+</td>
+<td align="center">
+  <a href="mailto:" target="_blank">
+    <img src="https://img.shields.io/badge/📧_Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A855F7" alt="Email" />
+  </a>
+</td>
+</tr>
+</table>
 
 <br/>
 
+### 💭 Philosophy
+
+> *"Tools shape thought. Build tools worth thinking with."*
+
+<br/>
+
+<!-- Footer with visitor counter -->
 <img src="https://komarev.com/ghpvc/?username=pr1m8&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
 
-<br/>
-
-*"Tools shape thought. Build tools worth thinking with."*
-
 </div>
+
+---
+
+<!-- Configuration & Asset Notes -->
+<details>
+<summary><b>📝 Configuration Notes</b></summary>
+
+**Metrics Configuration:**
+- Auto-updates every 12 hours via `.github/workflows/metrics.yml`
+- Includes: lines of code, languages, activity, habits, achievements
+- Theme: Consistent purple (#A855F7) across all elements
+
+**Visual Assets Organization:**
+- `images/banners/` - Header and section banners
+- `images/badges/` - Custom badges and shields
+- `images/stats/` - Statistical visualizations
+- `images/dividers/` - Section separators and decorative elements
+
+**Color Palette:**
+- Primary: `#A855F7` (Purple)
+- Secondary: `#8B5CF6` (Lighter Purple)
+- Accent: `#A7F3D0` (Mint Green)
+- Background: `#0D1117` (Dark)
+- Text: `#E9D5FF` (Light Purple)
+
+</details>
