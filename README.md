@@ -36,6 +36,14 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 
 <p align="center">
 <!-- AI / ML Frameworks -->
+<a href="https://openai.com/">
+  <img alt="OpenAI"
+       src="https://img.shields.io/badge/OpenAI-%20?style=flat&logo=openai&logoColor=A855F7&labelColor=0D1117&color=30363d">
+</a>
+<a href="https://www.anthropic.com/">
+  <img alt="Anthropic"
+       src="https://img.shields.io/badge/Anthropic-%20?style=flat&logo=anthropic&logoColor=A855F7&labelColor=0D1117&color=30363d">
+</a>
 <a href="https://www.langchain.com/">
   <img alt="LangChain"
        src="https://img.shields.io/badge/%20-LangChain-30363d?style=flat&labelColor=0D1117&logo=langchain&logoColor=A855F7">
@@ -78,7 +86,7 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 </a>
 <a href="https://www.trychroma.com/">
   <img alt="Chroma"
-       src="https://img.shields.io/badge/Chroma-%20?style=flat&logoColor=A855F7&labelColor=0D1117&color=30363d">
+       src="https://img.shields.io/badge/Chroma-%20?style=flat&logo=chromadb&logoColor=A855F7&labelColor=0D1117&color=30363d">
 </a>
 <a href="https://weaviate.io/">
   <img alt="Weaviate"
