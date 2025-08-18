@@ -139,7 +139,7 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 <br><br>
 <img src="https://img.shields.io/badge/Playwright-0D1117?style=for-the-badge&logo=playwright&logoColor=A855F7&color=30363d" alt="Playwright" />
 <img src="https://img.shields.io/badge/Selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=A855F7&color=30363d" alt="Selenium" />
-<img src="https://img.shields.io/badge/BeautifulSoup-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="BeautifulSoup" />
+<img src="https://img.shields.io/badge/BeautifulSoup-0D1117?style=for-the-badge&logo=python&logoColor=A855F7&color=30363d" alt="BeautifulSoup" />
 
 </div>
 </details>
