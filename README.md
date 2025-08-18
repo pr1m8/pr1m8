@@ -201,6 +201,40 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 
 </div>
 </details>
+
+---
+
+## 🎯 Core Expertise Areas
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+  <img src="https://github.com/pr1m8/pr1m8/blob/main/images/ai-icon.svg?raw=true" alt="AI" width="80" height="80" onerror="this.style.display='none'"/>
+  <h3>🤖 AI Agents</h3>
+  <p>Multi-agent architectures with dynamic workflows and structured reasoning</p>
+</td>
+<td align="center" width="25%">
+  <img src="https://github.com/pr1m8/pr1m8/blob/main/images/quant-icon.svg?raw=true" alt="Quant" width="80" height="80" onerror="this.style.display='none'"/>
+  <h3>📊 Quantitative</h3>
+  <p>ML-driven financial modeling and algorithmic trading strategies</p>
+</td>
+<td align="center" width="25%">
+  <img src="https://github.com/pr1m8/pr1m8/blob/main/images/graph-icon.svg?raw=true" alt="Graph" width="80" height="80" onerror="this.style.display='none'"/>
+  <h3>🔗 Graph AI</h3>
+  <p>Knowledge graphs and RAG pipeline optimization</p>
+</td>
+<td align="center" width="25%">
+  <img src="https://github.com/pr1m8/pr1m8/blob/main/images/auto-icon.svg?raw=true" alt="Autonomous" width="80" height="80" onerror="this.style.display='none'"/>
+  <h3>⚡ Autonomous</h3>
+  <p>Real-time decision systems with uncertainty modeling</p>
+</td>
+</tr>
+</table>
+
+</div>
+
 ---
 
 ## 📊 GitHub Analytics Dashboard
