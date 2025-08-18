@@ -34,9 +34,8 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 
 ## 🧰 Technology Stack
 
-<details>
-<summary><b>🤖 AI & Machine Learning</b> — <i>LangChain, OpenAI, PyTorch, TensorFlow, Hugging Face</i></summary>
-<br/>
+### 🤖 **AI & Machine Learning** 
+*Building intelligent systems with LangChain, OpenAI, PyTorch, and advanced ML frameworks*
 
 <p align="center">
 <a href="https://www.langchain.com/">
@@ -65,11 +64,8 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 </a>
 </p>
 
-</details>
-
-<details>
-<summary><b>📊 Data Science & Analytics</b> — <i>Pandas, NumPy, Statistical Modeling</i></summary>
-<br/>
+### 📊 **Data Science & Analytics**
+*Statistical modeling and data analysis with Pandas, NumPy, and quantitative methods*
 
 <p align="center">
 <a href="https://pandas.pydata.org/">
@@ -80,11 +76,8 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 </a>
 </p>
 
-</details>
-
-<details>
-<summary><b>🔍 Vector Stores & Search</b> — <i>Pinecone, Chroma, Weaviate, FAISS</i></summary>
-<br/>
+### 🔍 **Vector Stores & Search**
+*Semantic search and vector databases with Pinecone, Chroma, Weaviate, and FAISS*
 
 <p align="center">
 <a href="https://www.pinecone.io/">
@@ -101,11 +94,8 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 </a>
 </p>
 
-</details>
-
-<details>
-<summary><b>🐍 Backend Development</b> — <i>Python, FastAPI, Pydantic, Flask</i></summary>
-<br/>
+### 🐍 **Backend Development**
+*Scalable APIs and server-side development with Python, FastAPI, Pydantic, and Flask*
 
 <p align="center">
 <a href="https://www.python.org/">
@@ -122,11 +112,8 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 </a>
 </p>
 
-</details>
-
-<details>
-<summary><b>🌐 Frontend Development</b> — <i>TypeScript, React, Next.js, Tauri</i></summary>
-<br/>
+### 🌐 **Frontend Development**
+*Modern web applications with TypeScript, React, Next.js, and desktop apps with Tauri*
 
 <p align="center">
 <a href="https://www.typescriptlang.org/">
@@ -143,11 +130,8 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 </a>
 </p>
 
-</details>
-
-<details>
-<summary><b>🗄️ Data & Infrastructure</b> — <i>PostgreSQL, Redis, Docker, Linux, Supabase</i></summary>
-<br/>
+### 🗄️ **Data & Infrastructure**
+*Database management and cloud infrastructure with PostgreSQL, Redis, Docker, and more*
 
 <p align="center">
 <a href="https://www.postgresql.org/">
@@ -167,11 +151,8 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 </a>
 </p>
 
-</details>
-
-<details>
-<summary><b>🛠️ DevOps & Tools</b> — <i>GitHub, pre-commit, Sphinx</i></summary>
-<br/>
+### 🛠️ **DevOps & Tools**
+*Development workflows and documentation with GitHub, pre-commit, and Sphinx*
 
 <p align="center">
 <a href="https://github.com/">
@@ -184,8 +165,6 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
   <img alt="Sphinx" src="https://img.shields.io/badge/Sphinx-%20?style=flat&logo=sphinx&logoColor=A855F7&labelColor=0D1117&color=30363d">
 </a>
 </p>
-
-</details>
 
 ---
 
