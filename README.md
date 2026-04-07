@@ -13,13 +13,33 @@
 
 <!-- Main typing animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?lines=AI+Agent+Architect;Autonomous+Systems+Engineer;Graph+AI+%7C+RAG+%7C+Quant&font=Fira+Code&color=%23A855F7&center=true&width=720&height=50&size=22">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Agent+Architect;Autonomous+Systems+Engineer;Graph+AI+%7C+RAG+%7C+Quant&font=Fira+Code&color=%236D28D9&center=true&width=720&height=50&size=22" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Building+Haive+%E2%80%94+a+53%2B+agent+framework;Author+of+the+%2Adantic+family+on+PyPI;Quant+%2B+Agent+%2B+Symbolic+Reasoning;LangGraph+%C2%B7+MCP+%C2%B7+RAG+%C2%B7+HITL&font=Fira+Code&color=%23A855F7&center=true&width=720&height=50&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Haive+%E2%80%94+a+53%2B+agent+framework;Author+of+the+%2Adantic+family+on+PyPI;Quant+%2B+Agent+%2B+Symbolic+Reasoning;LangGraph+%C2%B7+MCP+%C2%B7+RAG+%C2%B7+HITL&font=Fira+Code&color=%236D28D9&center=true&width=720&height=50&size=22" />
 </picture>
 
 <br/>
 
 *Designing intelligent systems that bridge AI, automation, and structured reasoning*
+
+</div>
+
+---
+
+## 📐 By the Numbers
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><h3>193</h3><sub>Public repos</sub></td>
+<td align="center"><h3>17</h3><sub>Packages on PyPI</sub></td>
+<td align="center"><h3>53+</h3><sub>Agents in Haive</sub></td>
+<td align="center"><h3>9</h3><sub><code>*dantic</code> libraries</sub></td>
+<td align="center"><h3>6</h3><sub>OOAI services</sub></td>
+</tr>
+</table>
+
+<sub><em>The <code>haive</code> framework alone is a monorepo of 53+ production-ready agents (Simple, React, Multi, Memory, RAG variants, and more), with 9 published sub-packages on PyPI. The <code>*dantic</code> family pushes Pydantic from data validation into symbolic mathematics, structural typing, meta-programming, CLI/shell frameworks, and more.</em></sub>
 
 </div>
 
@@ -202,8 +222,9 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
   <a href="https://github.com/pr1m8/clidantic">
     <img src="https://img.shields.io/badge/▶_clidantic-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="clidantic" />
   </a>
+  <br/><a href="https://pypi.org/project/clidantic/"><img src="https://img.shields.io/pypi/v/clidantic?style=flat&color=A855F7&labelColor=0D1117&logo=pypi&logoColor=A855F7" alt="PyPI" /></a>
 </td>
-<td><strong>CLI framework</strong> built on Pydantic.</td>
+<td><strong>Typed Command-Line Interfaces</strong> powered by Click and Pydantic.</td>
 </tr>
 <tr>
 <td align="center">
@@ -218,8 +239,9 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
   <a href="https://github.com/pr1m8/duckdantic">
     <img src="https://img.shields.io/badge/🦆_duckdantic-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="duckdantic" />
   </a>
+  <br/><a href="https://pypi.org/project/duckdantic/"><img src="https://img.shields.io/pypi/v/duckdantic?style=flat&color=A855F7&labelColor=0D1117&logo=pypi&logoColor=A855F7" alt="PyPI" /></a>
 </td>
-<td><strong>Structural / duck-typing</strong> for Pydantic models.</td>
+<td><strong>Flexible structural typing and runtime validation</strong> for Python — duck-typing for Pydantic models.</td>
 </tr>
 <tr>
 <td align="center">
@@ -312,22 +334,22 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 <table>
 <tr>
 <td align="center" width="25%">
-  <img src="https://github.com/pr1m8/pr1m8/blob/main/images/ai-icon.svg?raw=true" alt="AI" width="80" height="80" onerror="this.style.display='none'"/>
+  <img src="https://raw.githubusercontent.com/pr1m8/pr1m8/main/images/ai-icon.svg" alt="AI" width="80" height="80" />
   <h3>🤖 AI Agents</h3>
   <p>Multi-agent architectures with dynamic workflows and structured reasoning</p>
 </td>
 <td align="center" width="25%">
-  <img src="https://github.com/pr1m8/pr1m8/blob/main/images/quant-icon.svg?raw=true" alt="Quant" width="80" height="80" onerror="this.style.display='none'"/>
+  <img src="https://raw.githubusercontent.com/pr1m8/pr1m8/main/images/quant-icon.svg" alt="Quant" width="80" height="80" />
   <h3>📊 Quantitative</h3>
   <p>ML-driven financial modeling and algorithmic trading strategies</p>
 </td>
 <td align="center" width="25%">
-  <img src="https://github.com/pr1m8/pr1m8/blob/main/images/graph-icon.svg?raw=true" alt="Graph" width="80" height="80" onerror="this.style.display='none'"/>
+  <img src="https://raw.githubusercontent.com/pr1m8/pr1m8/main/images/graph-icon.svg" alt="Graph" width="80" height="80" />
   <h3>🔗 Graph AI</h3>
   <p>Knowledge graphs and RAG pipeline optimization</p>
 </td>
 <td align="center" width="25%">
-  <img src="https://github.com/pr1m8/pr1m8/blob/main/images/auto-icon.svg?raw=true" alt="Autonomous" width="80" height="80" onerror="this.style.display='none'"/>
+  <img src="https://raw.githubusercontent.com/pr1m8/pr1m8/main/images/auto-icon.svg" alt="Autonomous" width="80" height="80" />
   <h3>⚡ Autonomous</h3>
   <p>Real-time decision systems with uncertainty modeling</p>
 </td>
@@ -366,9 +388,9 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 ### 🌊 Activity Heatmap
 <!-- Snake animation eating the contributions -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pr1m8/pr1m8/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/pr1m8/pr1m8/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/pr1m8/pr1m8/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pr1m8/pr1m8/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pr1m8/pr1m8/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pr1m8/pr1m8/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -410,6 +432,7 @@ The umbrella runtime: scalable multi-agent intelligence with dynamic workflows, 
     <img src="https://img.shields.io/badge/⚙️_haive--core-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="haive-core" />
   </a>
   <br/><img src="https://img.shields.io/github/stars/pr1m8/haive-core?style=flat&color=A855F7&labelColor=0D1117" alt="★" />
+  <a href="https://pypi.org/project/haive-core/"><img src="https://img.shields.io/pypi/v/haive-core?style=flat&color=A855F7&labelColor=0D1117&logo=pypi&logoColor=A855F7" alt="PyPI" /></a>
 </td>
 <td>Foundation for the Haive AI agent framework — engines, graph builder, state schemas, persistence, and stores.</td>
 </tr>
@@ -419,6 +442,7 @@ The umbrella runtime: scalable multi-agent intelligence with dynamic workflows, 
     <img src="https://img.shields.io/badge/🤖_haive--agents-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="haive-agents" />
   </a>
   <br/><img src="https://img.shields.io/github/stars/pr1m8/haive-agents?style=flat&color=A855F7&labelColor=0D1117" alt="★" />
+  <a href="https://pypi.org/project/haive-agents/"><img src="https://img.shields.io/pypi/v/haive-agents?style=flat&color=A855F7&labelColor=0D1117&logo=pypi&logoColor=A855F7" alt="PyPI" /></a>
 </td>
 <td>Production-ready agent implementations: SimpleAgent, ReactAgent, MultiAgent, MemoryAgent, RAG variants, and more.</td>
 </tr>
@@ -428,6 +452,7 @@ The umbrella runtime: scalable multi-agent intelligence with dynamic workflows, 
     <img src="https://img.shields.io/badge/🔌_haive--mcp-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="haive-mcp" />
   </a>
   <br/><img src="https://img.shields.io/github/stars/pr1m8/haive-mcp?style=flat&color=A855F7&labelColor=0D1117" alt="★" />
+  <a href="https://pypi.org/project/haive-mcp/"><img src="https://img.shields.io/pypi/v/haive-mcp?style=flat&color=A855F7&labelColor=0D1117&logo=pypi&logoColor=A855F7" alt="PyPI" /></a>
 </td>
 <td>Dynamic MCP integration for AI agents — search 1,960+ servers, install with HITL approval.</td>
 </tr>
@@ -436,6 +461,7 @@ The umbrella runtime: scalable multi-agent intelligence with dynamic workflows, 
   <a href="https://github.com/pr1m8/haive-hap">
     <img src="https://img.shields.io/badge/🤝_haive--hap-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="haive-hap" />
   </a>
+  <br/><a href="https://pypi.org/project/haive-hap/"><img src="https://img.shields.io/pypi/v/haive-hap?style=flat&color=A855F7&labelColor=0D1117&logo=pypi&logoColor=A855F7" alt="PyPI" /></a>
 </td>
 <td>Haive Agent Protocol — MCP for Agents. Orchestrate multiple AI agents in complex workflows.</td>
 </tr>
@@ -445,6 +471,7 @@ The umbrella runtime: scalable multi-agent intelligence with dynamic workflows, 
     <img src="https://img.shields.io/badge/🛠️_haive--tools-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="haive-tools" />
   </a>
   <br/><img src="https://img.shields.io/github/stars/pr1m8/haive-tools?style=flat&color=A855F7&labelColor=0D1117" alt="★" />
+  <a href="https://pypi.org/project/haive-tools/"><img src="https://img.shields.io/pypi/v/haive-tools?style=flat&color=A855F7&labelColor=0D1117&logo=pypi&logoColor=A855F7" alt="PyPI" /></a>
 </td>
 <td>Tool implementations for Haive agents — search, calculators, APIs, and integrations.</td>
 </tr>
@@ -454,6 +481,7 @@ The umbrella runtime: scalable multi-agent intelligence with dynamic workflows, 
     <img src="https://img.shields.io/badge/🌊_haive--dataflow-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="haive-dataflow" />
   </a>
   <br/><img src="https://img.shields.io/github/stars/pr1m8/haive-dataflow?style=flat&color=A855F7&labelColor=0D1117" alt="★" />
+  <a href="https://pypi.org/project/haive-dataflow/"><img src="https://img.shields.io/pypi/v/haive-dataflow?style=flat&color=A855F7&labelColor=0D1117&logo=pypi&logoColor=A855F7" alt="PyPI" /></a>
 </td>
 <td>Data processing pipelines and ETL workflows for Haive agents.</td>
 </tr>
@@ -463,6 +491,7 @@ The umbrella runtime: scalable multi-agent intelligence with dynamic workflows, 
     <img src="https://img.shields.io/badge/🎮_haive--games-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="haive-games" />
   </a>
   <br/><img src="https://img.shields.io/github/stars/pr1m8/haive-games?style=flat&color=A855F7&labelColor=0D1117" alt="★" />
+  <a href="https://pypi.org/project/haive-games/"><img src="https://img.shields.io/pypi/v/haive-games?style=flat&color=A855F7&labelColor=0D1117&logo=pypi&logoColor=A855F7" alt="PyPI" /></a>
 </td>
 <td>LLM-powered game agents for chess, Go, poker, social deduction, and 20+ other games.</td>
 </tr>
@@ -472,6 +501,7 @@ The umbrella runtime: scalable multi-agent intelligence with dynamic workflows, 
     <img src="https://img.shields.io/badge/📦_haive--prebuilt-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="haive-prebuilt" />
   </a>
   <br/><img src="https://img.shields.io/github/stars/pr1m8/haive-prebuilt?style=flat&color=A855F7&labelColor=0D1117" alt="★" />
+  <a href="https://pypi.org/project/haive-prebuilt/"><img src="https://img.shields.io/pypi/v/haive-prebuilt?style=flat&color=A855F7&labelColor=0D1117&logo=pypi&logoColor=A855F7" alt="PyPI" /></a>
 </td>
 <td>Prebuilt Haive recipes and starter configurations.</td>
 </tr>
@@ -497,6 +527,7 @@ The umbrella runtime: scalable multi-agent intelligence with dynamic workflows, 
   <a href="https://github.com/pr1m8/sqldbagent">
     <img src="https://img.shields.io/badge/🗄️_sqldbagent-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="sqldbagent" />
   </a>
+  <br/><a href="https://pypi.org/project/sqldbagent/"><img src="https://img.shields.io/pypi/v/sqldbagent?style=flat&color=A855F7&labelColor=0D1117&logo=pypi&logoColor=A855F7" alt="PyPI" /></a>
 </td>
 <td><strong>Service-first database intelligence platform</strong><br/>Safe inspection, guarded SQL, retrieval, and agent-ready context. DB-RAG with long-term memory, schema-aware exploration, query planning with guardrails and HITL, iterative self-improvement.</td>
 </tr>
@@ -505,6 +536,7 @@ The umbrella runtime: scalable multi-agent intelligence with dynamic workflows, 
   <a href="https://github.com/pr1m8/agent-logic">
     <img src="https://img.shields.io/badge/🧮_agent--logic-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="agent-logic" />
   </a>
+  <br/><a href="https://pypi.org/project/agent-logic/"><img src="https://img.shields.io/pypi/v/agent-logic?style=flat&color=A855F7&labelColor=0D1117&logo=pypi&logoColor=A855F7" alt="PyPI" /></a>
 </td>
 <td><strong>Modular Symbolic Logic for Agent Reasoning</strong><br/>SAT solving and LLM-enhanced proof systems. Propositional/predicate logic ASTs, sequent-calculus proof validation, truth-table/SAT validity, machine-checkable traces and counterexamples.</td>
 </tr>
@@ -538,6 +570,7 @@ The umbrella runtime: scalable multi-agent intelligence with dynamic workflows, 
   <a href="https://github.com/pr1m8/ooai-promptdb">
     <img src="https://img.shields.io/badge/📝_ooai--promptdb-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="ooai-promptdb" />
   </a>
+  <br/><a href="https://pypi.org/project/ooai-promptdb/"><img src="https://img.shields.io/pypi/v/ooai-promptdb?style=flat&color=A855F7&labelColor=0D1117&logo=pypi&logoColor=A855F7" alt="PyPI" /></a>
 </td>
 <td>Prompt registry and runtime delivery scaffold for LangChain and LangGraph. Versioning, storing, serving templates/chains/few-shot sets with caching and safe retrieval.</td>
 </tr>
@@ -546,6 +579,7 @@ The umbrella runtime: scalable multi-agent intelligence with dynamic workflows, 
   <a href="https://github.com/pr1m8/ooai-skills">
     <img src="https://img.shields.io/badge/🛠️_ooai--skills-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="ooai-skills" />
   </a>
+  <br/><a href="https://pypi.org/project/ooai-skills/"><img src="https://img.shields.io/pypi/v/ooai-skills?style=flat&color=A855F7&labelColor=0D1117&logo=pypi&logoColor=A855F7" alt="PyPI" /></a>
 </td>
 <td>Multi-agent skills registry — ingests curated "awesome skills" repos, normalizes <code>SKILL.md</code>, enables safe distribution and execution across runtimes with MinIO-backed storage.</td>
 </tr>
@@ -595,6 +629,7 @@ The umbrella runtime: scalable multi-agent intelligence with dynamic workflows, 
   <a href="https://github.com/pr1m8/pjkm">
     <img src="https://img.shields.io/badge/🏗️_pjkm-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="pjkm" />
   </a>
+  <br/><a href="https://pypi.org/project/pjkm/"><img src="https://img.shields.io/pypi/v/pjkm?style=flat&color=A855F7&labelColor=0D1117&logo=pypi&logoColor=A855F7" alt="PyPI" /></a>
 </td>
 <td><strong>Python project scaffolder for humans and agents</strong><br/>105 groups, 22 recipes, MCP server, group-aware templates. Generates reproducible, agent-operable AI/Python projects and multi-service platforms.</td>
 </tr>
@@ -603,8 +638,29 @@ The umbrella runtime: scalable multi-agent intelligence with dynamic workflows, 
   <a href="https://github.com/pr1m8/notex-ai">
     <img src="https://img.shields.io/badge/✏️_notex--ai-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="notex-ai" />
   </a>
+  <br/><img src="https://img.shields.io/github/stars/pr1m8/notex-ai?style=flat&color=A855F7&labelColor=0D1117" alt="★" />
+  <a href="https://pypi.org/project/notex_ai/"><img src="https://img.shields.io/pypi/v/notex_ai?style=flat&color=A855F7&labelColor=0D1117&logo=pypi&logoColor=A855F7" alt="PyPI" /></a>
 </td>
 <td><strong>Handwriting/PDF → LaTeX</strong><br/>Converts handwritten notes, PDFs, and images into structured LaTeX. OpenCV preprocessing + OCR plus LLM-based generation with self-correction and long-context support. Used by Math/CS students.</td>
+</tr>
+</table>
+
+</div>
+
+### 📈 Quantitative Systems
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="30%">
+  <a href="https://github.com/pr1m8/awt_quant">
+    <img src="https://img.shields.io/badge/📊_awt--quant-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="awt-quant" />
+  </a>
+  <br/><img src="https://img.shields.io/github/stars/pr1m8/awt_quant?style=flat&color=A855F7&labelColor=0D1117" alt="★" />
+  <a href="https://pypi.org/project/awt-quant/"><img src="https://img.shields.io/pypi/v/awt-quant?style=flat&color=A855F7&labelColor=0D1117&logo=pypi&logoColor=A855F7" alt="PyPI" /></a>
+</td>
+<td><strong>Advanced Quantitative Forecasting</strong><br/>SPDE, GARCH, and LLMs for financial time-series. Stochastic PDE solvers, volatility modeling, and language-model-augmented forecasting in one package.</td>
 </tr>
 </table>
 
@@ -629,18 +685,13 @@ The umbrella runtime: scalable multi-agent intelligence with dynamic workflows, 
   </a>
 </td>
 <td align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/🐦_X-0D1117?style=for-the-badge&logo=x&logoColor=A855F7" alt="X" />
-  </a>
-</td>
-<td align="center">
-  <a href="mailto:" target="_blank">
-    <img src="https://img.shields.io/badge/📧_Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A855F7" alt="Email" />
-  </a>
-</td>
-<td align="center">
   <a href="https://pypi.org/user/pr1m8/" target="_blank">
     <img src="https://img.shields.io/badge/📦_PyPI-0D1117?style=for-the-badge&logo=pypi&logoColor=A855F7" alt="PyPI" />
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/pr1m8" target="_blank">
+    <img src="https://img.shields.io/badge/⭐_GitHub-0D1117?style=for-the-badge&logo=github&logoColor=A855F7" alt="GitHub" />
   </a>
 </td>
 </tr>
