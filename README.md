@@ -13,8 +13,8 @@
 
 <!-- Main typing animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Building+Haive+%E2%80%94+a+53%2B+agent+framework;Author+of+the+%2Adantic+family+on+PyPI;Quant+%2B+Agent+%2B+Symbolic+Reasoning;LangGraph+%C2%B7+MCP+%C2%B7+RAG+%C2%B7+HITL&font=Fira+Code&color=%23A855F7&center=true&width=720&height=50&size=22">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Haive+%E2%80%94+a+53%2B+agent+framework;Author+of+the+%2Adantic+family+on+PyPI;Quant+%2B+Agent+%2B+Symbolic+Reasoning;LangGraph+%C2%B7+MCP+%C2%B7+RAG+%C2%B7+HITL&font=Fira+Code&color=%236D28D9&center=true&width=720&height=50&size=22" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?lines=24%2B+Python+packages+on+PyPI;Building+Haive+%E2%80%94+namespaced+polyrepo+%C2%B7+53%2B+agents;AWT+equity+stack+%E2%80%94+wraquant+%C2%B7+awt-quant+%C2%B7+awt-ti;9+%2Adantic+libraries+%C2%B7+LangGraph+%C2%B7+MCP+%C2%B7+RAG&font=Fira+Code&color=%23A855F7&center=true&width=760&height=50&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=24%2B+Python+packages+on+PyPI;Building+Haive+%E2%80%94+namespaced+polyrepo+%C2%B7+53%2B+agents;AWT+equity+stack+%E2%80%94+wraquant+%C2%B7+awt-quant+%C2%B7+awt-ti;9+%2Adantic+libraries+%C2%B7+LangGraph+%C2%B7+MCP+%C2%B7+RAG&font=Fira+Code&color=%236D28D9&center=true&width=760&height=50&size=22" />
 </picture>
 
 <br/>
@@ -31,15 +31,14 @@
 
 <table>
 <tr>
-<td align="center"><h3>193</h3><sub>Public repos</sub></td>
-<td align="center"><h3>17</h3><sub>Packages on PyPI</sub></td>
+<td align="center"><h3>24+</h3><sub>Packages on PyPI</sub></td>
 <td align="center"><h3>53+</h3><sub>Agents in Haive</sub></td>
 <td align="center"><h3>9</h3><sub><code>*dantic</code> libraries</sub></td>
-<td align="center"><h3>6</h3><sub>OOAI services</sub></td>
+<td align="center"><h3>4</h3><sub>AWT equity libs</sub></td>
 </tr>
 </table>
 
-<sub><em>Haive is a <strong>namespaced polyrepo with a central controller</strong> — 9 coordinated repos publishing under a unified <code>haive.*</code> namespace, with 53+ production-ready agents (Simple, React, Multi, Memory, RAG variants, and more). The <code>*dantic</code> family pushes Pydantic from data validation into symbolic mathematics, structural typing, meta-programming, CLI/shell frameworks, and more.</em></sub>
+<sub><em>Haive is a <strong>namespaced polyrepo with a central controller</strong> — 9 coordinated <code>haive.*</code> packages on PyPI, with 53+ production-ready agents (Simple, React, Multi, Memory, RAG variants, and more). The <code>*dantic</code> family pushes Pydantic from data validation into symbolic mathematics, structural typing, meta-programming, CLI/shell frameworks, and more. The <strong>AWT</strong> family is the equity-research anchor: <code>wraquant</code>, <code>awt-quant</code>, <code>awt-ti</code>, and <code>AWT_DCF</code>.</em></sub>
 
 </div>
 
@@ -559,6 +558,15 @@ The umbrella runtime: scalable multi-agent intelligence with dynamic workflows, 
 </td>
 <td><strong>Browser automation toolkit</strong><br/>45-version evolution for web agent development.</td>
 </tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/pr1m8/pjkm">
+    <img src="https://img.shields.io/badge/🏗️_pjkm-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="pjkm" />
+  </a>
+  <br/><a href="https://pypi.org/project/pjkm/"><img src="https://img.shields.io/pypi/v/pjkm?style=flat&color=A855F7&labelColor=0D1117&logo=pypi&logoColor=A855F7" alt="PyPI" /></a>
+</td>
+<td><strong>Python project scaffolder for humans and agents</strong><br/>105 groups, 22 recipes, MCP server, group-aware templates. Generates reproducible, agent-operable AI/Python projects and multi-service platforms.</td>
+</tr>
 </table>
 
 </div>
@@ -622,7 +630,7 @@ The umbrella runtime: scalable multi-agent intelligence with dynamic workflows, 
 
 </div>
 
-### 🛡️ Safety & Scaffolding
+### 🛡️ Safety, Applied & Creative
 
 <div align="center">
 
@@ -632,17 +640,9 @@ The umbrella runtime: scalable multi-agent intelligence with dynamic workflows, 
   <a href="https://github.com/pr1m8/prompt-injections">
     <img src="https://img.shields.io/badge/🛡️_prompt--injections-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="prompt-injections" />
   </a>
+  <br/><img src="https://img.shields.io/github/stars/pr1m8/prompt-injections?style=flat&color=A855F7&labelColor=0D1117" alt="★" />
 </td>
 <td><strong>Adversarial prompt corpus & defenses</strong><br/>Showcases methods of prompt injection and counter-defenses. 200+ adversarial cases integrated into agent workflows for guardrails and few-shot selection.</td>
-</tr>
-<tr>
-<td align="center">
-  <a href="https://github.com/pr1m8/pjkm">
-    <img src="https://img.shields.io/badge/🏗️_pjkm-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="pjkm" />
-  </a>
-  <br/><a href="https://pypi.org/project/pjkm/"><img src="https://img.shields.io/pypi/v/pjkm?style=flat&color=A855F7&labelColor=0D1117&logo=pypi&logoColor=A855F7" alt="PyPI" /></a>
-</td>
-<td><strong>Python project scaffolder for humans and agents</strong><br/>105 groups, 22 recipes, MCP server, group-aware templates. Generates reproducible, agent-operable AI/Python projects and multi-service platforms.</td>
 </tr>
 <tr>
 <td align="center">
@@ -653,6 +653,15 @@ The umbrella runtime: scalable multi-agent intelligence with dynamic workflows, 
   <a href="https://pypi.org/project/notex_ai/"><img src="https://img.shields.io/pypi/v/notex_ai?style=flat&color=A855F7&labelColor=0D1117&logo=pypi&logoColor=A855F7" alt="PyPI" /></a>
 </td>
 <td><strong>Handwriting/PDF → LaTeX</strong><br/>Converts handwritten notes, PDFs, and images into structured LaTeX. OpenCV preprocessing + OCR plus LLM-based generation with self-correction and long-context support. Used by Math/CS students.</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/pr1m8/comicframes">
+    <img src="https://img.shields.io/badge/🎨_comicframes-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="comicframes" />
+  </a>
+  <br/><img src="https://img.shields.io/github/stars/pr1m8/comicframes?style=flat&color=A855F7&labelColor=0D1117" alt="★" />
+</td>
+<td><strong>AI-powered comic book analysis</strong><br/>Frame detection, interpolation, and animation creation using RIFE, FILM, and YOLO models.</td>
 </tr>
 </table>
 
@@ -700,6 +709,60 @@ The umbrella runtime: scalable multi-agent intelligence with dynamic workflows, 
   </a>
 </td>
 <td><strong>Discounted Cash Flow valuation</strong><br/>Equity valuation models built on the AWT toolkit. The valuation half of the equity-research stack.</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/pr1m8/Credit-Default">
+    <img src="https://img.shields.io/badge/💳_Credit--Default-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="Credit-Default" />
+  </a>
+  <br/><img src="https://img.shields.io/github/stars/pr1m8/Credit-Default?style=flat&color=A855F7&labelColor=0D1117" alt="★" />
+</td>
+<td><strong>Credit Default modeling</strong><br/>XGBoost-based credit default classifier — applied risk modeling for consumer credit.</td>
+</tr>
+</table>
+
+</div>
+
+### 🛠️ Developer Utilities
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="30%">
+  <a href="https://github.com/pr1m8/pydvlp-docs">
+    <img src="https://img.shields.io/badge/📚_pydvlp--docs-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="pydvlp-docs" />
+  </a>
+  <br/><a href="https://pypi.org/project/pydvlp-docs/"><img src="https://img.shields.io/pypi/v/pydvlp-docs?style=flat&color=A855F7&labelColor=0D1117&logo=pypi&logoColor=A855F7" alt="PyPI" /></a>
+</td>
+<td><strong>Universal Python documentation generator</strong><br/>40+ Sphinx extensions pre-configured. Zero-config beautiful, professional docs.</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/pr1m8/pydvlp-debug">
+    <img src="https://img.shields.io/badge/🐛_pydvlp--debug-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="pydvlp-debug" />
+  </a>
+  <br/><a href="https://pypi.org/project/pydvlp-debug/"><img src="https://img.shields.io/pypi/v/pydvlp-debug?style=flat&color=A855F7&labelColor=0D1117&logo=pypi&logoColor=A855F7" alt="PyPI" /></a>
+</td>
+<td><strong>Professional Python development utilities</strong><br/>Advanced debugging, introspection, and dev-loop tooling.</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/pr1m8/djangautomate">
+    <img src="https://img.shields.io/badge/⚙️_djangautomate-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="djangautomate" />
+  </a>
+  <br/><a href="https://pypi.org/project/djangautomate/"><img src="https://img.shields.io/pypi/v/djangautomate?style=flat&color=A855F7&labelColor=0D1117&logo=pypi&logoColor=A855F7" alt="PyPI" /></a>
+</td>
+<td><strong>Django scaffolder from SQLAlchemy</strong><br/>Automates Django app, model, serializer, and view generation directly from existing SQLAlchemy tables — infra-heavy code generation for legacy DB migrations.</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/pr1m8/repo-sanitize">
+    <img src="https://img.shields.io/badge/🧹_repo--sanitize-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="repo-sanitize" />
+  </a>
+  <br/><a href="https://pypi.org/project/repo-sanitize/"><img src="https://img.shields.io/pypi/v/repo-sanitize?style=flat&color=A855F7&labelColor=0D1117&logo=pypi&logoColor=A855F7" alt="PyPI" /></a>
+</td>
+<td><strong>GitHub repo cleanup utility</strong><br/>Basic package to clean up github repos — secret removal, audit, and tidy-up.</td>
 </tr>
 </table>
 
