@@ -39,7 +39,7 @@
 </tr>
 </table>
 
-<sub><em>The <code>haive</code> framework alone is a monorepo of 53+ production-ready agents (Simple, React, Multi, Memory, RAG variants, and more), with 9 published sub-packages on PyPI. The <code>*dantic</code> family pushes Pydantic from data validation into symbolic mathematics, structural typing, meta-programming, CLI/shell frameworks, and more.</em></sub>
+<sub><em>Haive is a <strong>namespaced polyrepo with a central controller</strong> — 9 coordinated repos publishing under a unified <code>haive.*</code> namespace, with 53+ production-ready agents (Simple, React, Multi, Memory, RAG variants, and more). The <code>*dantic</code> family pushes Pydantic from data validation into symbolic mathematics, structural typing, meta-programming, CLI/shell frameworks, and more.</em></sub>
 
 </div>
 
@@ -416,7 +416,7 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 &nbsp;
 <img src="https://img.shields.io/github/stars/pr1m8/haive?style=for-the-badge&color=A855F7&labelColor=0D1117" alt="Stars" />
 
-**Haive AI Agent Framework** — production-ready monorepo with **53+ agents**, RAG, memory, knowledge graphs, and games.
+**Haive AI Agent Framework** — production-ready **namespaced polyrepo with a central controller**: 9 coordinated repos publishing under a unified `haive.*` namespace, with **53+ agents**, RAG, memory, knowledge graphs, and games.
 The umbrella runtime: scalable multi-agent intelligence with dynamic workflows, structured reasoning, configurable graph composition, and persistent memory. Everything below plugs into it.
 
 </div>
