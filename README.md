@@ -222,9 +222,8 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
   <a href="https://github.com/pr1m8/clidantic">
     <img src="https://img.shields.io/badge/▶_clidantic-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="clidantic" />
   </a>
-  <br/><a href="https://pypi.org/project/clidantic/"><img src="https://img.shields.io/pypi/v/clidantic?style=flat&color=A855F7&labelColor=0D1117&logo=pypi&logoColor=A855F7" alt="PyPI" /></a>
 </td>
-<td><strong>Typed Command-Line Interfaces</strong> powered by Click and Pydantic.</td>
+<td><strong>CLI framework</strong> built on Pydantic.</td>
 </tr>
 <tr>
 <td align="center">
@@ -404,7 +403,7 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 *An ecosystem of agent runtimes, prompt/skill services, and applied tools — designed to be composable, observable, and safe.*
 
 <!-- Auto-generated projects display -->
-<img src="./projects-metrics.svg" alt="Featured Projects" width="100%" />
+<img src="https://raw.githubusercontent.com/pr1m8/pr1m8/main/projects-metrics.svg" alt="Featured Projects" width="100%" />
 
 ### 🪐 Flagship — `haive`
 
@@ -432,9 +431,10 @@ The umbrella runtime: scalable multi-agent intelligence with dynamic workflows, 
     <img src="https://img.shields.io/badge/🪐_haive-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="haive" />
   </a>
   <br/><img src="https://img.shields.io/github/stars/pr1m8/haive?style=flat&color=A855F7&labelColor=0D1117" alt="★" />
+  <a href="https://pypi.org/project/haive/"><img src="https://img.shields.io/pypi/v/haive?style=flat&color=A855F7&labelColor=0D1117&logo=pypi&logoColor=A855F7" alt="PyPI" /></a>
   <br/><sub><strong>Central controller</strong></sub>
 </td>
-<td>The central coordination repo — orchestrates the <code>haive.*</code> namespace, glues the 9 sibling packages into a unified runtime, and houses the 53+ agent catalog, RAG, memory, and knowledge graph infrastructure.</td>
+<td>The central coordination repo — orchestrates the <code>haive.*</code> namespace, glues the sibling packages into a unified runtime, and houses the 53+ agent catalog, RAG, memory, and knowledge graph infrastructure.</td>
 </tr>
 <tr>
 <td align="center" width="30%">
@@ -514,14 +514,6 @@ The umbrella runtime: scalable multi-agent intelligence with dynamic workflows, 
   <a href="https://pypi.org/project/haive-prebuilt/"><img src="https://img.shields.io/pypi/v/haive-prebuilt?style=flat&color=A855F7&labelColor=0D1117&logo=pypi&logoColor=A855F7" alt="PyPI" /></a>
 </td>
 <td>Prebuilt Haive recipes and starter configurations.</td>
-</tr>
-<tr>
-<td align="center">
-  <a href="https://github.com/pr1m8/haive-docs">
-    <img src="https://img.shields.io/badge/📚_haive--docs-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="haive-docs" />
-  </a>
-</td>
-<td>Universal Python documentation generator — 40+ Sphinx extensions pre-configured. Zero-config beautiful docs.</td>
 </tr>
 </table>
 
