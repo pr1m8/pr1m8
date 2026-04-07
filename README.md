@@ -543,6 +543,15 @@ The umbrella runtime: scalable multi-agent intelligence with dynamic workflows, 
 </tr>
 <tr>
 <td align="center">
+  <a href="https://github.com/pr1m8/pyfetcher">
+    <img src="https://img.shields.io/badge/🌐_fetchkit-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="fetchkit" />
+  </a>
+  <br/><a href="https://pypi.org/project/fetchkit/"><img src="https://img.shields.io/pypi/v/fetchkit?style=flat&color=A855F7&labelColor=0D1117&logo=pypi&logoColor=A855F7" alt="PyPI" /></a>
+</td>
+<td><strong>Agentic web infrastructure (PyPI: <code>fetchkit</code>)</strong><br/>Autonomous fetching, scraping, extraction, and download with realistic browser fingerprints, structured outputs, and a full crawl-scrape-download pipeline backed by Postgres and MinIO. Ships an <strong>MCP server</strong> so agents can call it as a tool.</td>
+</tr>
+<tr>
+<td align="center">
   <a href="https://github.com/pr1m8/agent-logic">
     <img src="https://img.shields.io/badge/🧮_agent--logic-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="agent-logic" />
   </a>
@@ -657,13 +666,24 @@ The umbrella runtime: scalable multi-agent intelligence with dynamic workflows, 
 
 </div>
 
-### 📈 Quantitative Systems
+### 📈 Quantitative Systems & Equity Research — the AWT family
 
 <div align="center">
+
+*The equity-expert anchor: a coordinated set of libraries for quant research, technical analysis, valuation, and forecasting.*
 
 <table>
 <tr>
 <td align="center" width="30%">
+  <a href="https://github.com/pr1m8/wraquant">
+    <img src="https://img.shields.io/badge/💹_wraquant-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="wraquant" />
+  </a>
+  <br/><a href="https://pypi.org/project/wraquant/"><img src="https://img.shields.io/pypi/v/wraquant?style=flat&color=A855F7&labelColor=0D1117&logo=pypi&logoColor=A855F7" alt="PyPI" /></a>
+</td>
+<td><strong>The ultimate quant finance toolkit for Python</strong><br/>The flagship of the AWT quant stack — a comprehensive library for equity research, modeling, and analytics.</td>
+</tr>
+<tr>
+<td align="center">
   <a href="https://github.com/pr1m8/awt_quant">
     <img src="https://img.shields.io/badge/📊_awt--quant-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="awt-quant" />
   </a>
@@ -671,6 +691,23 @@ The umbrella runtime: scalable multi-agent intelligence with dynamic workflows, 
   <a href="https://pypi.org/project/awt-quant/"><img src="https://img.shields.io/pypi/v/awt-quant?style=flat&color=A855F7&labelColor=0D1117&logo=pypi&logoColor=A855F7" alt="PyPI" /></a>
 </td>
 <td><strong>Advanced Quantitative Forecasting</strong><br/>SPDE, GARCH, and LLMs for financial time-series. Stochastic PDE solvers, volatility modeling, and language-model-augmented forecasting in one package.</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/pr1m8/awt_ti">
+    <img src="https://img.shields.io/badge/📉_awt--ti-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="awt-ti" />
+  </a>
+  <br/><a href="https://pypi.org/project/awt-ti/"><img src="https://img.shields.io/pypi/v/awt-ti?style=flat&color=A855F7&labelColor=0D1117&logo=pypi&logoColor=A855F7" alt="PyPI" /></a>
+</td>
+<td><strong>Technical Analysis Indicators</strong><br/>A comprehensive library for technical analysis indicators in financial markets — trend, momentum, volatility, and volume indicators.</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/pr1m8/AWT_DCF">
+    <img src="https://img.shields.io/badge/💰_AWT__DCF-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="AWT_DCF" />
+  </a>
+</td>
+<td><strong>Discounted Cash Flow valuation</strong><br/>Equity valuation models built on the AWT toolkit. The valuation half of the equity-research stack.</td>
 </tr>
 </table>
 
