@@ -619,12 +619,12 @@ The umbrella runtime: scalable multi-agent intelligence with dynamic workflows, 
 <table>
 <tr>
 <td align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Website-0D1117?style=for-the-badge&logoColor=A855F7" alt="Website" />
+  <a href="https://willastley.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_willastley.dev-0D1117?style=for-the-badge&logoColor=A855F7" alt="Website" />
   </a>
 </td>
 <td align="center">
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/william-astley" target="_blank">
     <img src="https://img.shields.io/badge/💼_LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn" />
   </a>
 </td>
