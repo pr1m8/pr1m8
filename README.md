@@ -428,6 +428,16 @@ The umbrella runtime: scalable multi-agent intelligence with dynamic workflows, 
 <table>
 <tr>
 <td align="center" width="30%">
+  <a href="https://github.com/pr1m8/haive">
+    <img src="https://img.shields.io/badge/🪐_haive-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="haive" />
+  </a>
+  <br/><img src="https://img.shields.io/github/stars/pr1m8/haive?style=flat&color=A855F7&labelColor=0D1117" alt="★" />
+  <br/><sub><strong>Central controller</strong></sub>
+</td>
+<td>The central coordination repo — orchestrates the <code>haive.*</code> namespace, glues the 9 sibling packages into a unified runtime, and houses the 53+ agent catalog, RAG, memory, and knowledge graph infrastructure.</td>
+</tr>
+<tr>
+<td align="center" width="30%">
   <a href="https://github.com/pr1m8/haive-core">
     <img src="https://img.shields.io/badge/⚙️_haive--core-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="haive-core" />
   </a>
