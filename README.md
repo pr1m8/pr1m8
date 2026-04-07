@@ -147,6 +147,94 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 </details>
 
 <details>
+<summary><b>🧬 The Pydantic Ecosystem — <code>*dantic</code> family</b></summary>
+<br>
+
+<div align="center">
+
+*A family of frameworks built on Pydantic — pushing it from "data validation" into mathematical computing, symbolic logic, structural type analysis, meta-programming, CLI, shells, files, and more.*
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <a href="https://github.com/pr1m8/symdantic">
+    <img src="https://img.shields.io/badge/∑_symdantic-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="symdantic" />
+  </a>
+</td>
+<td><strong>Symbolic mathematics framework</strong> built on Pydantic — 21-version evolution.</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/pr1m8/mathdantic">
+    <img src="https://img.shields.io/badge/π_mathdantic-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="mathdantic" />
+  </a>
+</td>
+<td><strong>Mathematical computing framework</strong> built on Pydantic.</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/pr1m8/structdantic">
+    <img src="https://img.shields.io/badge/⊕_structdantic-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="structdantic" />
+  </a>
+</td>
+<td><strong>Structural type analysis framework</strong> for Pydantic — with algebraic properties.</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/pr1m8/metadantic">
+    <img src="https://img.shields.io/badge/⟲_metadantic-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="metadantic" />
+  </a>
+</td>
+<td><strong>Meta-programming framework</strong> for Pydantic — 40-phase evolution (P1–P40).</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/pr1m8/shelldantic">
+    <img src="https://img.shields.io/badge/$_shelldantic-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="shelldantic" />
+  </a>
+</td>
+<td><strong>Shell CLI framework</strong> built on Pydantic — evolution from clidantic.</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/pr1m8/clidantic">
+    <img src="https://img.shields.io/badge/▶_clidantic-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="clidantic" />
+  </a>
+</td>
+<td><strong>CLI framework</strong> built on Pydantic.</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/pr1m8/funcdantic">
+    <img src="https://img.shields.io/badge/ƒ_funcdantic-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="funcdantic" />
+  </a>
+</td>
+<td><strong>Functional programming primitives</strong> on top of Pydantic.</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/pr1m8/duckdantic">
+    <img src="https://img.shields.io/badge/🦆_duckdantic-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="duckdantic" />
+  </a>
+</td>
+<td><strong>Structural / duck-typing</strong> for Pydantic models.</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/pr1m8/filedantic">
+    <img src="https://img.shields.io/badge/📁_filedantic-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="filedantic" />
+  </a>
+</td>
+<td><strong>Agent workspace normalizer</strong> for <code>.awsp</code> projects — file classification, templates, validation.</td>
+</tr>
+</table>
+
+</div>
+</details>
+
+<details>
 <summary><b>🗄️ Systems, Infrastructure & Observability</b></summary>
 <br>
 
@@ -296,18 +384,104 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 <!-- Auto-generated projects display -->
 <img src="./projects-metrics.svg" alt="Featured Projects" width="100%" />
 
-### 🪐 Flagship
+### 🪐 Flagship — `haive`
+
+<div align="center">
+
+<a href="https://github.com/pr1m8/haive">
+  <img src="https://img.shields.io/badge/⚡_Haive-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="Haive" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/github/stars/pr1m8/haive?style=for-the-badge&color=A855F7&labelColor=0D1117" alt="Stars" />
+
+**Haive AI Agent Framework** — production-ready monorepo with **53+ agents**, RAG, memory, knowledge graphs, and games.
+The umbrella runtime: scalable multi-agent intelligence with dynamic workflows, structured reasoning, configurable graph composition, and persistent memory. Everything below plugs into it.
+
+</div>
+
+### 🧩 Haive Sub-Ecosystem
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="30%">
-  <a href="#">
-    <img src="https://img.shields.io/badge/⚡_Haive-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="Haive" />
+  <a href="https://github.com/pr1m8/haive-core">
+    <img src="https://img.shields.io/badge/⚙️_haive--core-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="haive-core" />
+  </a>
+  <br/><img src="https://img.shields.io/github/stars/pr1m8/haive-core?style=flat&color=A855F7&labelColor=0D1117" alt="★" />
+</td>
+<td>Foundation for the Haive AI agent framework — engines, graph builder, state schemas, persistence, and stores.</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/pr1m8/haive-agents">
+    <img src="https://img.shields.io/badge/🤖_haive--agents-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="haive-agents" />
+  </a>
+  <br/><img src="https://img.shields.io/github/stars/pr1m8/haive-agents?style=flat&color=A855F7&labelColor=0D1117" alt="★" />
+</td>
+<td>Production-ready agent implementations: SimpleAgent, ReactAgent, MultiAgent, MemoryAgent, RAG variants, and more.</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/pr1m8/haive-mcp">
+    <img src="https://img.shields.io/badge/🔌_haive--mcp-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="haive-mcp" />
+  </a>
+  <br/><img src="https://img.shields.io/github/stars/pr1m8/haive-mcp?style=flat&color=A855F7&labelColor=0D1117" alt="★" />
+</td>
+<td>Dynamic MCP integration for AI agents — search 1,960+ servers, install with HITL approval.</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/pr1m8/haive-hap">
+    <img src="https://img.shields.io/badge/🤝_haive--hap-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="haive-hap" />
   </a>
 </td>
-<td><strong>Modular AI Agent Framework</strong><br/>The umbrella runtime: scalable multi-agent intelligence with dynamic workflows, structured reasoning, configurable graph composition, and persistent memory. Everything below plugs into it.</td>
+<td>Haive Agent Protocol — MCP for Agents. Orchestrate multiple AI agents in complex workflows.</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/pr1m8/haive-tools">
+    <img src="https://img.shields.io/badge/🛠️_haive--tools-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="haive-tools" />
+  </a>
+  <br/><img src="https://img.shields.io/github/stars/pr1m8/haive-tools?style=flat&color=A855F7&labelColor=0D1117" alt="★" />
+</td>
+<td>Tool implementations for Haive agents — search, calculators, APIs, and integrations.</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/pr1m8/haive-dataflow">
+    <img src="https://img.shields.io/badge/🌊_haive--dataflow-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="haive-dataflow" />
+  </a>
+  <br/><img src="https://img.shields.io/github/stars/pr1m8/haive-dataflow?style=flat&color=A855F7&labelColor=0D1117" alt="★" />
+</td>
+<td>Data processing pipelines and ETL workflows for Haive agents.</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/pr1m8/haive-games">
+    <img src="https://img.shields.io/badge/🎮_haive--games-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="haive-games" />
+  </a>
+  <br/><img src="https://img.shields.io/github/stars/pr1m8/haive-games?style=flat&color=A855F7&labelColor=0D1117" alt="★" />
+</td>
+<td>LLM-powered game agents for chess, Go, poker, social deduction, and 20+ other games.</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/pr1m8/haive-prebuilt">
+    <img src="https://img.shields.io/badge/📦_haive--prebuilt-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="haive-prebuilt" />
+  </a>
+  <br/><img src="https://img.shields.io/github/stars/pr1m8/haive-prebuilt?style=flat&color=A855F7&labelColor=0D1117" alt="★" />
+</td>
+<td>Prebuilt Haive recipes and starter configurations.</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/pr1m8/haive-docs">
+    <img src="https://img.shields.io/badge/📚_haive--docs-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="haive-docs" />
+  </a>
+</td>
+<td>Universal Python documentation generator — 40+ Sphinx extensions pre-configured. Zero-config beautiful docs.</td>
 </tr>
 </table>
 
@@ -320,73 +494,113 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 <table>
 <tr>
 <td align="center" width="30%">
-  <a href="#">
+  <a href="https://github.com/pr1m8/sqldbagent">
     <img src="https://img.shields.io/badge/🗄️_sqldbagent-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="sqldbagent" />
   </a>
 </td>
-<td><strong>Database intelligence agent</strong><br/>DB-RAG with long-term memory. Schema-aware exploration, safe query planning and execution with guardrails and HITL, iterative self-improvement.</td>
+<td><strong>Service-first database intelligence platform</strong><br/>Safe inspection, guarded SQL, retrieval, and agent-ready context. DB-RAG with long-term memory, schema-aware exploration, query planning with guardrails and HITL, iterative self-improvement.</td>
 </tr>
 <tr>
 <td align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/🧮_Agent--Logic-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="Agent-Logic" />
+  <a href="https://github.com/pr1m8/agent-logic">
+    <img src="https://img.shields.io/badge/🧮_agent--logic-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="agent-logic" />
   </a>
 </td>
-<td><strong>Pydantic-based reasoning toolkit</strong><br/>Propositional/predicate logic ASTs, sequent-calculus proof validation, truth-table/SAT validity, machine-checkable traces and counterexamples for structured agent reasoning.</td>
+<td><strong>Modular Symbolic Logic for Agent Reasoning</strong><br/>SAT solving and LLM-enhanced proof systems. Propositional/predicate logic ASTs, sequent-calculus proof validation, truth-table/SAT validity, machine-checkable traces and counterexamples.</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/pr1m8/browser-agent-toolkit">
+    <img src="https://img.shields.io/badge/🌐_browser--agent--toolkit-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="browser-agent-toolkit" />
+  </a>
+</td>
+<td><strong>Browser automation toolkit</strong><br/>45-version evolution for web agent development.</td>
 </tr>
 </table>
 
 </div>
 
-### 📚 Prompts, Skills & Safety
+### 🌌 OOAI Platform
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="30%">
-  <a href="#">
+  <a href="https://github.com/pr1m8/ooai-core">
+    <img src="https://img.shields.io/badge/🧠_ooai--core-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="ooai-core" />
+  </a>
+</td>
+<td>OOAI core runtime — the foundation for the OOAI agent platform.</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/pr1m8/ooai-promptdb">
     <img src="https://img.shields.io/badge/📝_ooai--promptdb-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="ooai-promptdb" />
   </a>
 </td>
-<td><strong>Production prompt database & service</strong><br/>Versioning, storing, and serving templates, chains, and few-shot sets. Caching, safe retrieval, and runtime execution across agent frameworks.</td>
+<td>Prompt registry and runtime delivery scaffold for LangChain and LangGraph. Versioning, storing, serving templates/chains/few-shot sets with caching and safe retrieval.</td>
 </tr>
 <tr>
 <td align="center">
-  <a href="#">
+  <a href="https://github.com/pr1m8/ooai-skills">
     <img src="https://img.shields.io/badge/🛠️_ooai--skills-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="ooai-skills" />
   </a>
 </td>
-<td><strong>Multi-agent skills registry</strong><br/>Ingests curated "awesome skills" repos, normalizes <code>SKILL.md</code> capabilities, enables safe distribution, caching, and execution across agent runtimes with MinIO-backed storage.</td>
+<td>Multi-agent skills registry — ingests curated "awesome skills" repos, normalizes <code>SKILL.md</code>, enables safe distribution and execution across runtimes with MinIO-backed storage.</td>
 </tr>
 <tr>
 <td align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/🛡️_Prompt--injections-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="Prompt-injections" />
+  <a href="https://github.com/pr1m8/ooai-graph">
+    <img src="https://img.shields.io/badge/🕸️_ooai--graph-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="ooai-graph" />
   </a>
 </td>
-<td><strong>Adversarial prompt corpus</strong><br/>200+ adversarial prompt cases with detection rules and defenses, integrated into agent workflows for guardrails and few-shot selection.</td>
+<td>Graph-based computation and workflow management.</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/pr1m8/ooai-agents">
+    <img src="https://img.shields.io/badge/🤖_ooai--agents-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="ooai-agents" />
+  </a>
+</td>
+<td>OOAI agent implementations.</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/pr1m8/ooai-api">
+    <img src="https://img.shields.io/badge/🔗_ooai--api-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="ooai-api" />
+  </a>
+</td>
+<td>OOAI API layer.</td>
 </tr>
 </table>
 
 </div>
 
-### 🧰 Scaffolding & Applied
+### 🛡️ Safety & Scaffolding
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="30%">
-  <a href="#">
-    <img src="https://img.shields.io/badge/🏗️_pjkm-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="pjkm" />
+  <a href="https://github.com/pr1m8/prompt-injections">
+    <img src="https://img.shields.io/badge/🛡️_prompt--injections-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="prompt-injections" />
   </a>
 </td>
-<td><strong>Standardized scaffolding system</strong><br/>Generates reproducible, agent-operable AI/Python projects and multi-service platforms from composable groups, recipes, and workspace blueprints — with MCP.</td>
+<td><strong>Adversarial prompt corpus & defenses</strong><br/>Showcases methods of prompt injection and counter-defenses. 200+ adversarial cases integrated into agent workflows for guardrails and few-shot selection.</td>
 </tr>
 <tr>
 <td align="center">
-  <a href="#">
+  <a href="https://github.com/pr1m8/pjkm">
+    <img src="https://img.shields.io/badge/🏗️_pjkm-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="pjkm" />
+  </a>
+</td>
+<td><strong>Python project scaffolder for humans and agents</strong><br/>105 groups, 22 recipes, MCP server, group-aware templates. Generates reproducible, agent-operable AI/Python projects and multi-service platforms.</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/pr1m8/notex-ai">
     <img src="https://img.shields.io/badge/✏️_notex--ai-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="notex-ai" />
   </a>
 </td>
