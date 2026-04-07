@@ -49,156 +49,168 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,fastapi,flask,postgresql,redis,docker,linux,git,github&theme=dark" alt="Core Technologies" />
+<img src="https://skillicons.dev/icons?i=python,typescript,fastapi,postgresql,redis,docker,linux,git,github&theme=dark" alt="Core Technologies" />
 
 </div>
 
-<details>
-<summary><b>🤖 AI & Machine Learning Ecosystem</b></summary>
+<details open>
+<summary><b>🤖 Agentic Systems, Orchestration & Evaluation</b></summary>
 <br>
 
 <div align="center">
 
-**Frameworks & Libraries**
+*Agent/runtime design · graph composition · multi-agent orchestration · RAG · knowledge graphs · persistent memory · A2A · HITL · tracing · evaluation · self-improving systems*
+
+**Frameworks & Runtimes**
 <br><br>
 <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=A855F7&color=30363d" alt="LangChain" />
 <img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logo=langchain&logoColor=A855F7&color=30363d" alt="LangGraph" />
-<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=A855F7&color=30363d" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=A855F7&color=30363d" alt="PyTorch" />
-<img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=A855F7&color=30363d" alt="Scikit-Learn" />
-<img src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=A855F7&color=30363d" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/LangGraph_SDK-0D1117?style=for-the-badge&logo=langchain&logoColor=A855F7&color=30363d" alt="LangGraph SDK" />
+<img src="https://img.shields.io/badge/Deep_Agents-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="Deep Agents" />
+<img src="https://img.shields.io/badge/MCP-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="Model Context Protocol" />
+<img src="https://img.shields.io/badge/A2A-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="A2A Protocol" />
 
-**LLM Providers & AI Platforms**
+**Evaluation, Tracing & Observability**
+<br><br>
+<img src="https://img.shields.io/badge/LangSmith-0D1117?style=for-the-badge&logo=langchain&logoColor=A855F7&color=30363d" alt="LangSmith" />
+<img src="https://img.shields.io/badge/OpenTelemetry-0D1117?style=for-the-badge&logo=opentelemetry&logoColor=A855F7&color=30363d" alt="OpenTelemetry" />
+
+**LLM Providers**
 <br><br>
 <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=A855F7&color=30363d" alt="OpenAI" />
 <img src="https://img.shields.io/badge/Anthropic-0D1117?style=for-the-badge&logo=anthropic&logoColor=A855F7&color=30363d" alt="Anthropic" />
-
-**Vector Databases & RAG**
-<br><br>
-<img src="https://img.shields.io/badge/Pinecone-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="Pinecone" />
-<img src="https://img.shields.io/badge/Chroma-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="Chroma" />
-<img src="https://img.shields.io/badge/Weaviate-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="Weaviate" />
-<img src="https://img.shields.io/badge/FAISS-0D1117?style=for-the-badge&logo=meta&logoColor=A855F7&color=30363d" alt="FAISS" />
+<img src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=A855F7&color=30363d" alt="Hugging Face" />
 
 </div>
 </details>
 
 <details>
-<summary><b>📊 Data Science & Scientific Computing</b></summary>
+<summary><b>📈 Quantitative Finance & Equity Research</b></summary>
 <br>
 
 <div align="center">
 
-**Data Processing & Analysis**
+*Equity research · stochastic & algorithmic modeling · time-series forecasting · risk & portfolio optimization · probabilistic graph models · statistical evaluation*
+
+**Numerical & Statistical Stack**
 <br><br>
-<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=A855F7&color=30363d" alt="Pandas" />
 <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=A855F7&color=30363d" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=A855F7&color=30363d" alt="Pandas" />
 <img src="https://img.shields.io/badge/SciPy-0D1117?style=for-the-badge&logo=scipy&logoColor=A855F7&color=30363d" alt="SciPy" />
 <img src="https://img.shields.io/badge/SymPy-0D1117?style=for-the-badge&logo=sympy&logoColor=A855F7&color=30363d" alt="SymPy" />
-
-**Interactive Computing**
-<br><br>
 <img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=A855F7&color=30363d" alt="Jupyter" />
 
 </div>
 </details>
 
 <details>
-<summary><b>⚡ Backend & API Development</b></summary>
+<summary><b>🧠 AI/ML Foundations</b></summary>
 <br>
 
 <div align="center">
 
-**Core Frameworks**
+**Frameworks & Libraries**
+<br><br>
+<img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=A855F7&color=30363d" alt="PyTorch" />
+<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=A855F7&color=30363d" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=A855F7&color=30363d" alt="Hugging Face Transformers" />
+<img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=A855F7&color=30363d" alt="Scikit-Learn" />
+
+**Vector Search & Knowledge**
+<br><br>
+<img src="https://img.shields.io/badge/Qdrant-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="Qdrant" />
+<img src="https://img.shields.io/badge/FAISS-0D1117?style=for-the-badge&logo=meta&logoColor=A855F7&color=30363d" alt="FAISS" />
+
+</div>
+</details>
+
+<details>
+<summary><b>⚡ Languages & Backend</b></summary>
+<br>
+
+<div align="center">
+
+**Languages**
 <br><br>
 <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=A855F7&color=30363d" alt="Python" />
-<img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=A855F7&color=30363d" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=A855F7&color=30363d" alt="Flask" />
-<img src="https://img.shields.io/badge/Pydantic-0D1117?style=for-the-badge&logo=pydantic&logoColor=A855F7&color=30363d" alt="Pydantic" />
-
-</div>
-</details>
-
-<details>
-<summary><b>🎨 Frontend & User Experience</b></summary>
-<br>
-
-<div align="center">
-
-**Modern Web Stack**
-<br><br>
+<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=A855F7&color=30363d" alt="SQL" />
 <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=A855F7&color=30363d" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=A855F7&color=30363d" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=A855F7&color=30363d" alt="Next.js" />
-<img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=A855F7&color=30363d" alt="Vite" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=A855F7&color=30363d" alt="JavaScript" />
 
-**Desktop Applications**
+**API & Data Layer**
 <br><br>
-<img src="https://img.shields.io/badge/Tauri-0D1117?style=for-the-badge&logo=tauri&logoColor=A855F7&color=30363d" alt="Tauri" />
-
-**Web Automation & Testing**
-<br><br>
-<img src="https://img.shields.io/badge/Playwright-0D1117?style=for-the-badge&logo=playwright&logoColor=A855F7&color=30363d" alt="Playwright" />
-<img src="https://img.shields.io/badge/Selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=A855F7&color=30363d" alt="Selenium" />
-<img src="https://img.shields.io/badge/BeautifulSoup-0D1117?style=for-the-badge&logo=python&logoColor=A855F7&color=30363d" alt="BeautifulSoup" />
+<img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=A855F7&color=30363d" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Pydantic-0D1117?style=for-the-badge&logo=pydantic&logoColor=A855F7&color=30363d" alt="Pydantic" />
+<img src="https://img.shields.io/badge/SQLAlchemy-0D1117?style=for-the-badge&logo=sqlalchemy&logoColor=A855F7&color=30363d" alt="SQLAlchemy" />
 
 </div>
 </details>
 
 <details>
-<summary><b>🗄️ Data Infrastructure & Storage</b></summary>
+<summary><b>🗄️ Systems, Infrastructure & Observability</b></summary>
 <br>
 
 <div align="center">
 
-**Databases**
+**Datastores & Messaging**
 <br><br>
 <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=A855F7&color=30363d" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=A855F7&color=30363d" alt="Redis" />
-<img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=A855F7&color=30363d" alt="Supabase" />
+<img src="https://img.shields.io/badge/RabbitMQ-0D1117?style=for-the-badge&logo=rabbitmq&logoColor=A855F7&color=30363d" alt="RabbitMQ" />
+<img src="https://img.shields.io/badge/MinIO-0D1117?style=for-the-badge&logo=minio&logoColor=A855F7&color=30363d" alt="MinIO / S3" />
 
-**Cloud & Infrastructure**
+**Workflows & Runtime**
 <br><br>
+<img src="https://img.shields.io/badge/Temporal-0D1117?style=for-the-badge&logo=temporal&logoColor=A855F7&color=30363d" alt="Temporal" />
+<img src="https://img.shields.io/badge/Celery-0D1117?style=for-the-badge&logo=celery&logoColor=A855F7&color=30363d" alt="Celery" />
 <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=A855F7&color=30363d" alt="Docker" />
 <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=A855F7&color=30363d" alt="Linux" />
+
+**Observability**
+<br><br>
+<img src="https://img.shields.io/badge/OpenTelemetry-0D1117?style=for-the-badge&logo=opentelemetry&logoColor=A855F7&color=30363d" alt="OpenTelemetry" />
+<img src="https://img.shields.io/badge/Prometheus-0D1117?style=for-the-badge&logo=prometheus&logoColor=A855F7&color=30363d" alt="Prometheus" />
+<img src="https://img.shields.io/badge/Grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=A855F7&color=30363d" alt="Grafana" />
+<img src="https://img.shields.io/badge/Loki-0D1117?style=for-the-badge&logo=grafana&logoColor=A855F7&color=30363d" alt="Loki" />
+<img src="https://img.shields.io/badge/Jaeger-0D1117?style=for-the-badge&logo=jaeger&logoColor=A855F7&color=30363d" alt="Jaeger" />
 
 </div>
 </details>
 
 <details>
-<summary><b>🔧 DevOps & Development Tools</b></summary>
+<summary><b>🔧 Developer Tooling & CI/CD</b></summary>
 <br>
 
 <div align="center">
 
-**Version Control & CI/CD**
+**Version Control & CI**
 <br><br>
 <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=A855F7&color=30363d" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=A855F7&color=30363d" alt="GitHub" />
-<img src="https://img.shields.io/badge/GitLab-0D1117?style=for-the-badge&logo=gitlab&logoColor=A855F7&color=30363d" alt="GitLab" />
 <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=github-actions&logoColor=A855F7&color=30363d" alt="GitHub Actions" />
-
-**Package Management**
-<br><br>
-<img src="https://img.shields.io/badge/Poetry-0D1117?style=for-the-badge&logo=poetry&logoColor=A855F7&color=30363d" alt="Poetry" />
-<img src="https://img.shields.io/badge/uv-0D1117?style=for-the-badge&logo=python&logoColor=A855F7&color=30363d" alt="uv" />
-<img src="https://img.shields.io/badge/pnpm-0D1117?style=for-the-badge&logo=pnpm&logoColor=A855F7&color=30363d" alt="pnpm" />
-<img src="https://img.shields.io/badge/Hatch-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="Hatch" />
-
-**Code Quality & Testing**
-<br><br>
-<img src="https://img.shields.io/badge/pytest-0D1117?style=for-the-badge&logo=pytest&logoColor=A855F7&color=30363d" alt="pytest" />
-<img src="https://img.shields.io/badge/Ruff-0D1117?style=for-the-badge&logo=ruff&logoColor=A855F7&color=30363d" alt="Ruff" />
-<img src="https://img.shields.io/badge/Black-0D1117?style=for-the-badge&logo=python&logoColor=A855F7&color=30363d" alt="Black" />
-<img src="https://img.shields.io/badge/pre--commit-0D1117?style=for-the-badge&logo=pre-commit&logoColor=A855F7&color=30363d" alt="pre-commit" />
 <img src="https://img.shields.io/badge/Trunk-0D1117?style=for-the-badge&logo=trunk&logoColor=A855F7&color=30363d" alt="Trunk" />
+<img src="https://img.shields.io/badge/pre--commit-0D1117?style=for-the-badge&logo=pre-commit&logoColor=A855F7&color=30363d" alt="pre-commit" />
+<img src="https://img.shields.io/badge/Commitizen-0D1117?style=for-the-badge&logo=git&logoColor=A855F7&color=30363d" alt="Commitizen" />
 
-**Documentation & Templates**
+**Linting, Typing & Testing**
+<br><br>
+<img src="https://img.shields.io/badge/Ruff-0D1117?style=for-the-badge&logo=ruff&logoColor=A855F7&color=30363d" alt="Ruff" />
+<img src="https://img.shields.io/badge/Mypy-0D1117?style=for-the-badge&logo=python&logoColor=A855F7&color=30363d" alt="Mypy" />
+<img src="https://img.shields.io/badge/Pyright-0D1117?style=for-the-badge&logo=python&logoColor=A855F7&color=30363d" alt="Pyright" />
+<img src="https://img.shields.io/badge/pytest-0D1117?style=for-the-badge&logo=pytest&logoColor=A855F7&color=30363d" alt="pytest" />
+<img src="https://img.shields.io/badge/coverage-0D1117?style=for-the-badge&logo=codecov&logoColor=A855F7&color=30363d" alt="coverage" />
+
+**Packaging & Build**
+<br><br>
+<img src="https://img.shields.io/badge/uv-0D1117?style=for-the-badge&logo=python&logoColor=A855F7&color=30363d" alt="uv" />
+<img src="https://img.shields.io/badge/PDM-0D1117?style=for-the-badge&logo=python&logoColor=A855F7&color=30363d" alt="PDM" />
+<img src="https://img.shields.io/badge/Poetry-0D1117?style=for-the-badge&logo=poetry&logoColor=A855F7&color=30363d" alt="Poetry" />
+<img src="https://img.shields.io/badge/Hatch-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="Hatch" />
+<img src="https://img.shields.io/badge/Nox-0D1117?style=for-the-badge&logo=python&logoColor=A855F7&color=30363d" alt="Nox" />
+
+**Documentation**
 <br><br>
 <img src="https://img.shields.io/badge/Sphinx-0D1117?style=for-the-badge&logo=sphinx&logoColor=A855F7&color=30363d" alt="Sphinx" />
-<img src="https://img.shields.io/badge/Jinja2-0D1117?style=for-the-badge&logo=jinja&logoColor=A855F7&color=30363d" alt="Jinja2" />
-<img src="https://img.shields.io/badge/Copier-0D1117?style=for-the-badge&logo=python&logoColor=A855F7&color=30363d" alt="Copier" />
-<img src="https://img.shields.io/badge/Commitizen-0D1117?style=for-the-badge&logo=git&logoColor=A855F7&color=30363d" alt="Commitizen" />
 
 </div>
 </details>
@@ -277,61 +289,108 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 
 
 
-## 🚀 Featured Projects & Research
+## 🚀 Haive AI Infrastructure & Tooling
 
-*Showcasing innovation across AI agents, knowledge systems, and quantitative modeling*
+*An ecosystem of agent runtimes, prompt/skill services, and applied tools — designed to be composable, observable, and safe.*
 
 <!-- Auto-generated projects display -->
 <img src="./projects-metrics.svg" alt="Featured Projects" width="100%" />
 
-### 📌 Pinned Repositories
+### 🪐 Flagship
 
 <div align="center">
 
 <table>
 <tr>
-<th align="center">Project</th>
-<th align="center">Description</th>
-<th align="center">Tech Stack</th>
-<th align="center">Status</th>
-</tr>
-<tr>
-<td align="center">
-  <a href="https://github.com/0rac130fD31phi/haive">
+<td align="center" width="30%">
+  <a href="#">
     <img src="https://img.shields.io/badge/⚡_Haive-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="Haive" />
   </a>
 </td>
-<td><strong>Modular AI Agent Framework</strong><br/>Scalable intelligence with dynamic workflows and structured reasoning</td>
-<td>
-  <img src="https://img.shields.io/badge/LangChain-0D1117?style=flat&logo=langchain&logoColor=A855F7&labelColor=0D1117&color=30363d" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=flat&logo=python&logoColor=A855F7&labelColor=0D1117&color=30363d" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat&logo=fastapi&logoColor=A855F7&labelColor=0D1117&color=30363d" alt="FastAPI" />
+<td><strong>Modular AI Agent Framework</strong><br/>The umbrella runtime: scalable multi-agent intelligence with dynamic workflows, structured reasoning, configurable graph composition, and persistent memory. Everything below plugs into it.</td>
+</tr>
+</table>
+
+</div>
+
+### 🤖 Agent Runtime & Reasoning
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="30%">
+  <a href="#">
+    <img src="https://img.shields.io/badge/🗄️_sqldbagent-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="sqldbagent" />
+  </a>
 </td>
-<td>🟢 Active</td>
+<td><strong>Database intelligence agent</strong><br/>DB-RAG with long-term memory. Schema-aware exploration, safe query planning and execution with guardrails and HITL, iterative self-improvement.</td>
 </tr>
 <tr>
 <td align="center">
-  <img src="https://img.shields.io/badge/🔬_FLSTAESR-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="FLSTAESR" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/🧮_Agent--Logic-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="Agent-Logic" />
+  </a>
 </td>
-<td><strong>Automated RAG Pipeline</strong><br/>Advanced retrieval-augmented generation with knowledge graph construction</td>
-<td>
-  <img src="https://img.shields.io/badge/Graph_AI-0D1117?style=flat&logoColor=A855F7&labelColor=0D1117&color=30363d" alt="Graph AI" />
-  <img src="https://img.shields.io/badge/Vector_DB-0D1117?style=flat&logoColor=A855F7&labelColor=0D1117&color=30363d" alt="Vector DB" />
-  <img src="https://img.shields.io/badge/ML-0D1117?style=flat&logoColor=A855F7&labelColor=0D1117&color=30363d" alt="ML" />
+<td><strong>Pydantic-based reasoning toolkit</strong><br/>Propositional/predicate logic ASTs, sequent-calculus proof validation, truth-table/SAT validity, machine-checkable traces and counterexamples for structured agent reasoning.</td>
+</tr>
+</table>
+
+</div>
+
+### 📚 Prompts, Skills & Safety
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="30%">
+  <a href="#">
+    <img src="https://img.shields.io/badge/📝_ooai--promptdb-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="ooai-promptdb" />
+  </a>
 </td>
-<td>🟡 Development</td>
+<td><strong>Production prompt database & service</strong><br/>Versioning, storing, and serving templates, chains, and few-shot sets. Caching, safe retrieval, and runtime execution across agent frameworks.</td>
 </tr>
 <tr>
 <td align="center">
-  <img src="https://img.shields.io/badge/📊_Quant_AI-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="Quant AI" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/🛠️_ooai--skills-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="ooai-skills" />
+  </a>
 </td>
-<td><strong>Quantitative AI Systems</strong><br/>Probabilistic forecasting and portfolio optimization for financial markets</td>
-<td>
-  <img src="https://img.shields.io/badge/Python-0D1117?style=flat&logo=python&logoColor=A855F7&labelColor=0D1117&color=30363d" alt="Python" />
-  <img src="https://img.shields.io/badge/Statistics-0D1117?style=flat&logoColor=A855F7&labelColor=0D1117&color=30363d" alt="Statistics" />
-  <img src="https://img.shields.io/badge/Finance-0D1117?style=flat&logoColor=A855F7&labelColor=0D1117&color=30363d" alt="Finance" />
+<td><strong>Multi-agent skills registry</strong><br/>Ingests curated "awesome skills" repos, normalizes <code>SKILL.md</code> capabilities, enables safe distribution, caching, and execution across agent runtimes with MinIO-backed storage.</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/🛡️_Prompt--injections-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="Prompt-injections" />
+  </a>
 </td>
-<td>🟢 Active</td>
+<td><strong>Adversarial prompt corpus</strong><br/>200+ adversarial prompt cases with detection rules and defenses, integrated into agent workflows for guardrails and few-shot selection.</td>
+</tr>
+</table>
+
+</div>
+
+### 🧰 Scaffolding & Applied
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="30%">
+  <a href="#">
+    <img src="https://img.shields.io/badge/🏗️_pjkm-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="pjkm" />
+  </a>
+</td>
+<td><strong>Standardized scaffolding system</strong><br/>Generates reproducible, agent-operable AI/Python projects and multi-service platforms from composable groups, recipes, and workspace blueprints — with MCP.</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/✏️_notex--ai-0D1117?style=for-the-badge&logoColor=A855F7&color=30363d" alt="notex-ai" />
+  </a>
+</td>
+<td><strong>Handwriting/PDF → LaTeX</strong><br/>Converts handwritten notes, PDFs, and images into structured LaTeX. OpenCV preprocessing + OCR plus LLM-based generation with self-correction and long-context support. Used by Math/CS students.</td>
 </tr>
 </table>
 
@@ -363,6 +422,11 @@ AI isn't just about language—it's about **pattern recognition, probabilistic m
 <td align="center">
   <a href="mailto:" target="_blank">
     <img src="https://img.shields.io/badge/📧_Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A855F7" alt="Email" />
+  </a>
+</td>
+<td align="center">
+  <a href="https://pypi.org/user/pr1m8/" target="_blank">
+    <img src="https://img.shields.io/badge/📦_PyPI-0D1117?style=for-the-badge&logo=pypi&logoColor=A855F7" alt="PyPI" />
   </a>
 </td>
 </tr>
